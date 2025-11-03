@@ -1,0 +1,307 @@
+date,home_team,away_team,home_goals,away_goals,result,home_shots,away_shots,home_shots_on_target,away_shots_on_target,odds_home,odds_draw,odds_away,league,season
+23/08/2024,M'gladbach,Leverkusen,2,3,A,14.0,25.0,7.0,9.0,5.25,4.5,1.55,Bundesliga,2024/25
+24/08/2024,Augsburg,Werder Bremen,2,2,D,10.0,12.0,3.0,6.0,2.2,3.6,3.1,Bundesliga,2024/25
+24/08/2024,Freiburg,Stuttgart,3,1,H,15.0,9.0,4.0,2.0,3.5,3.6,2.05,Bundesliga,2024/25
+24/08/2024,Hoffenheim,Holstein Kiel,3,2,H,20.0,15.0,8.0,6.0,1.65,4.5,4.5,Bundesliga,2024/25
+24/08/2024,Mainz,Union Berlin,1,1,D,15.0,15.0,3.0,4.0,2.0,3.4,3.9,Bundesliga,2024/25
+24/08/2024,RB Leipzig,Bochum,1,0,H,12.0,10.0,3.0,4.0,1.25,7.0,9.0,Bundesliga,2024/25
+24/08/2024,Dortmund,Ein Frankfurt,2,0,H,17.0,7.0,5.0,2.0,1.7,4.1,4.5,Bundesliga,2024/25
+25/08/2024,Wolfsburg,Bayern Munich,2,3,A,11.0,14.0,2.0,8.0,6.25,4.75,1.45,Bundesliga,2024/25
+25/08/2024,St Pauli,Heidenheim,0,2,A,11.0,6.0,3.0,3.0,2.1,3.5,3.4,Bundesliga,2024/25
+30/08/2024,Union Berlin,St Pauli,1,0,H,10.0,8.0,5.0,2.0,1.91,3.5,4.1,Bundesliga,2024/25
+31/08/2024,Bochum,M'gladbach,0,2,A,16.0,15.0,4.0,6.0,2.6,3.6,2.6,Bundesliga,2024/25
+31/08/2024,Ein Frankfurt,Hoffenheim,3,1,H,17.0,10.0,7.0,3.0,1.8,4.2,3.9,Bundesliga,2024/25
+31/08/2024,Holstein Kiel,Wolfsburg,0,2,A,12.0,12.0,5.0,4.0,3.2,3.7,2.15,Bundesliga,2024/25
+31/08/2024,Stuttgart,Mainz,3,3,D,28.0,9.0,13.0,7.0,1.62,4.33,5.25,Bundesliga,2024/25
+31/08/2024,Werder Bremen,Dortmund,0,0,D,5.0,9.0,1.0,4.0,4.1,4.0,1.8,Bundesliga,2024/25
+31/08/2024,Leverkusen,RB Leipzig,2,3,A,27.0,10.0,10.0,4.0,1.75,4.2,4.1,Bundesliga,2024/25
+01/09/2024,Heidenheim,Augsburg,4,0,H,17.0,15.0,9.0,1.0,2.38,3.5,2.9,Bundesliga,2024/25
+01/09/2024,Bayern Munich,Freiburg,2,0,H,11.0,8.0,4.0,4.0,1.2,8.0,11.0,Bundesliga,2024/25
+13/09/2024,Dortmund,Heidenheim,4,2,H,13.0,11.0,7.0,4.0,1.4,5.5,6.5,Bundesliga,2024/25
+14/09/2024,Freiburg,Bochum,2,1,H,27.0,13.0,9.0,2.0,1.7,3.9,5.0,Bundesliga,2024/25
+14/09/2024,Hoffenheim,Leverkusen,1,4,A,14.0,20.0,5.0,8.0,5.75,4.5,1.48,Bundesliga,2024/25
+14/09/2024,M'gladbach,Stuttgart,1,3,A,15.0,12.0,7.0,7.0,2.75,4.0,2.3,Bundesliga,2024/25
+14/09/2024,RB Leipzig,Union Berlin,0,0,D,16.0,11.0,3.0,3.0,1.48,4.5,6.5,Bundesliga,2024/25
+14/09/2024,Wolfsburg,Ein Frankfurt,1,2,A,17.0,15.0,4.0,7.0,2.63,3.6,2.5,Bundesliga,2024/25
+14/09/2024,Holstein Kiel,Bayern Munich,1,6,A,5.0,23.0,1.0,13.0,11.0,7.0,1.22,Bundesliga,2024/25
+15/09/2024,Augsburg,St Pauli,3,1,H,18.0,12.0,10.0,3.0,2.1,3.6,3.4,Bundesliga,2024/25
+15/09/2024,Mainz,Werder Bremen,1,2,A,11.0,11.0,5.0,5.0,2.0,3.7,3.5,Bundesliga,2024/25
+20/09/2024,Augsburg,Mainz,2,3,A,30.0,5.0,9.0,3.0,2.38,3.5,2.9,Bundesliga,2024/25
+21/09/2024,Bochum,Holstein Kiel,2,2,D,14.0,13.0,3.0,4.0,1.91,3.5,4.0,Bundesliga,2024/25
+21/09/2024,Heidenheim,Freiburg,0,3,A,7.0,14.0,2.0,5.0,2.7,3.5,2.55,Bundesliga,2024/25
+21/09/2024,Union Berlin,Hoffenheim,2,1,H,12.0,6.0,2.0,3.0,2.0,3.6,3.7,Bundesliga,2024/25
+21/09/2024,Werder Bremen,Bayern Munich,0,5,A,0.0,25.0,0.0,7.0,8.0,5.5,1.36,Bundesliga,2024/25
+21/09/2024,Ein Frankfurt,M'gladbach,2,0,H,14.0,22.0,4.0,7.0,1.75,4.0,4.33,Bundesliga,2024/25
+22/09/2024,Leverkusen,Wolfsburg,4,3,H,20.0,8.0,7.0,4.0,1.3,5.75,8.0,Bundesliga,2024/25
+22/09/2024,Stuttgart,Dortmund,5,1,H,16.0,6.0,9.0,3.0,2.3,3.75,2.9,Bundesliga,2024/25
+22/09/2024,St Pauli,RB Leipzig,0,0,D,15.0,10.0,4.0,5.0,5.75,3.9,1.62,Bundesliga,2024/25
+27/09/2024,Dortmund,Bochum,4,2,H,23.0,10.0,8.0,6.0,1.25,7.0,9.0,Bundesliga,2024/25
+28/09/2024,Freiburg,St Pauli,0,3,A,6.0,10.0,2.0,4.0,1.62,4.0,5.5,Bundesliga,2024/25
+28/09/2024,Mainz,Heidenheim,0,2,A,7.0,14.0,2.0,7.0,1.83,3.75,4.2,Bundesliga,2024/25
+28/09/2024,M'gladbach,Union Berlin,1,0,H,8.0,9.0,3.0,3.0,2.1,3.5,3.4,Bundesliga,2024/25
+28/09/2024,RB Leipzig,Augsburg,4,0,H,14.0,7.0,7.0,1.0,1.4,5.25,6.5,Bundesliga,2024/25
+28/09/2024,Wolfsburg,Stuttgart,2,2,D,5.0,17.0,2.0,5.0,3.2,3.9,2.05,Bundesliga,2024/25
+28/09/2024,Bayern Munich,Leverkusen,1,1,D,18.0,3.0,3.0,3.0,1.73,4.33,4.2,Bundesliga,2024/25
+29/09/2024,Holstein Kiel,Ein Frankfurt,2,4,A,10.0,18.0,5.0,10.0,4.2,4.2,1.73,Bundesliga,2024/25
+29/09/2024,Hoffenheim,Werder Bremen,3,4,A,10.0,18.0,5.0,10.0,2.38,3.8,2.7,Bundesliga,2024/25
+04/10/2024,Augsburg,M'gladbach,2,1,H,13.0,11.0,5.0,5.0,2.38,3.7,2.7,Bundesliga,2024/25
+05/10/2024,Bochum,Wolfsburg,1,3,A,17.0,15.0,5.0,5.0,3.0,3.7,2.2,Bundesliga,2024/25
+05/10/2024,Leverkusen,Holstein Kiel,2,2,D,24.0,8.0,7.0,4.0,1.09,11.0,21.0,Bundesliga,2024/25
+05/10/2024,Union Berlin,Dortmund,2,1,H,13.0,9.0,5.0,5.0,3.3,3.5,2.15,Bundesliga,2024/25
+05/10/2024,Werder Bremen,Freiburg,0,1,A,11.0,13.0,3.0,3.0,2.6,3.5,2.6,Bundesliga,2024/25
+05/10/2024,St Pauli,Mainz,0,3,A,17.0,8.0,4.0,4.0,2.4,3.3,2.9,Bundesliga,2024/25
+06/10/2024,Heidenheim,RB Leipzig,0,1,A,15.0,12.0,4.0,2.0,4.5,4.33,1.67,Bundesliga,2024/25
+06/10/2024,Ein Frankfurt,Bayern Munich,3,3,D,5.0,22.0,4.0,13.0,5.5,4.5,1.53,Bundesliga,2024/25
+06/10/2024,Stuttgart,Hoffenheim,1,1,D,18.0,7.0,7.0,5.0,1.3,6.0,8.0,Bundesliga,2024/25
+18/10/2024,Dortmund,St Pauli,2,1,H,20.0,10.0,7.0,3.0,1.3,5.25,9.5,Bundesliga,2024/25
+19/10/2024,Freiburg,Augsburg,3,1,H,15.0,9.0,6.0,3.0,1.73,3.75,4.75,Bundesliga,2024/25
+19/10/2024,Hoffenheim,Bochum,3,1,H,12.0,13.0,7.0,4.0,1.7,4.5,4.2,Bundesliga,2024/25
+19/10/2024,Leverkusen,Ein Frankfurt,2,1,H,27.0,9.0,9.0,2.0,1.44,4.75,6.5,Bundesliga,2024/25
+19/10/2024,Mainz,RB Leipzig,0,2,A,16.0,11.0,2.0,5.0,3.9,3.8,1.85,Bundesliga,2024/25
+19/10/2024,M'gladbach,Heidenheim,3,2,H,20.0,19.0,10.0,6.0,1.85,3.7,4.1,Bundesliga,2024/25
+19/10/2024,Bayern Munich,Stuttgart,4,0,H,22.0,4.0,10.0,1.0,1.36,5.25,7.5,Bundesliga,2024/25
+20/10/2024,Holstein Kiel,Union Berlin,0,2,A,12.0,14.0,5.0,4.0,3.5,3.3,2.15,Bundesliga,2024/25
+20/10/2024,Wolfsburg,Werder Bremen,2,4,A,14.0,15.0,6.0,7.0,2.1,3.6,3.3,Bundesliga,2024/25
+25/10/2024,Mainz,M'gladbach,1,1,D,23.0,9.0,6.0,5.0,2.3,3.75,2.8,Bundesliga,2024/25
+26/10/2024,Augsburg,Dortmund,2,1,H,12.0,11.0,4.0,4.0,3.6,4.0,1.9,Bundesliga,2024/25
+26/10/2024,RB Leipzig,Freiburg,3,1,H,12.0,15.0,9.0,5.0,1.73,4.1,4.5,Bundesliga,2024/25
+26/10/2024,St Pauli,Wolfsburg,0,0,D,14.0,10.0,5.0,4.0,2.55,3.5,2.63,Bundesliga,2024/25
+26/10/2024,Stuttgart,Holstein Kiel,2,1,H,16.0,9.0,6.0,3.0,1.22,7.5,9.5,Bundesliga,2024/25
+26/10/2024,Werder Bremen,Leverkusen,2,2,D,13.0,15.0,8.0,6.0,5.25,5.0,1.5,Bundesliga,2024/25
+27/10/2024,Bochum,Bayern Munich,0,5,A,6.0,17.0,2.0,9.0,12.0,9.5,1.17,Bundesliga,2024/25
+27/10/2024,Union Berlin,Ein Frankfurt,1,1,D,13.0,17.0,4.0,5.0,2.55,3.3,2.75,Bundesliga,2024/25
+27/10/2024,Heidenheim,Hoffenheim,0,0,D,17.0,12.0,3.0,4.0,2.25,3.5,3.1,Bundesliga,2024/25
+01/11/2024,Leverkusen,Stuttgart,0,0,D,19.0,4.0,5.0,1.0,1.55,4.75,5.25,Bundesliga,2024/25
+02/11/2024,Bayern Munich,Union Berlin,3,0,H,16.0,8.0,7.0,1.0,1.18,7.5,13.0,Bundesliga,2024/25
+02/11/2024,Ein Frankfurt,Bochum,7,2,H,18.0,11.0,9.0,8.0,1.33,5.75,7.5,Bundesliga,2024/25
+02/11/2024,Hoffenheim,St Pauli,0,2,A,12.0,7.0,6.0,3.0,1.83,3.8,4.0,Bundesliga,2024/25
+02/11/2024,Holstein Kiel,Heidenheim,1,0,H,11.0,17.0,6.0,4.0,2.7,3.5,2.45,Bundesliga,2024/25
+02/11/2024,Wolfsburg,Augsburg,1,1,D,18.0,3.0,6.0,1.0,2.0,3.75,3.5,Bundesliga,2024/25
+02/11/2024,Dortmund,RB Leipzig,2,1,H,19.0,7.0,7.0,3.0,2.2,3.8,3.0,Bundesliga,2024/25
+03/11/2024,Freiburg,Mainz,0,0,D,10.0,9.0,2.0,2.0,1.7,3.9,4.75,Bundesliga,2024/25
+03/11/2024,M'gladbach,Werder Bremen,4,1,H,16.0,15.0,8.0,5.0,2.1,3.8,3.2,Bundesliga,2024/25
+08/11/2024,Union Berlin,Freiburg,0,0,D,12.0,14.0,6.0,4.0,2.45,3.25,2.9,Bundesliga,2024/25
+09/11/2024,Bochum,Leverkusen,1,1,D,15.0,11.0,3.0,3.0,9.5,6.5,1.27,Bundesliga,2024/25
+09/11/2024,Mainz,Dortmund,3,1,H,13.0,2.0,9.0,1.0,3.5,3.6,2.0,Bundesliga,2024/25
+09/11/2024,St Pauli,Bayern Munich,0,1,A,3.0,13.0,0.0,6.0,9.0,7.0,1.25,Bundesliga,2024/25
+09/11/2024,Werder Bremen,Holstein Kiel,2,1,H,16.0,12.0,5.0,5.0,1.62,4.33,4.75,Bundesliga,2024/25
+09/11/2024,RB Leipzig,M'gladbach,0,0,D,11.0,14.0,4.0,4.0,1.57,4.33,5.25,Bundesliga,2024/25
+10/11/2024,Augsburg,Hoffenheim,0,0,D,16.0,11.0,4.0,2.0,2.05,3.75,3.25,Bundesliga,2024/25
+10/11/2024,Stuttgart,Ein Frankfurt,2,3,A,22.0,8.0,11.0,5.0,1.9,4.0,3.7,Bundesliga,2024/25
+10/11/2024,Heidenheim,Wolfsburg,1,3,A,19.0,13.0,4.0,6.0,2.75,3.4,2.45,Bundesliga,2024/25
+22/11/2024,Bayern Munich,Augsburg,3,0,H,33.0,2.0,14.0,1.0,1.13,10.0,15.0,Bundesliga,2024/25
+23/11/2024,Dortmund,Freiburg,4,0,H,19.0,7.0,7.0,3.0,1.67,4.2,4.5,Bundesliga,2024/25
+23/11/2024,Hoffenheim,RB Leipzig,4,3,H,20.0,14.0,7.0,6.0,3.4,3.5,2.1,Bundesliga,2024/25
+23/11/2024,Leverkusen,Heidenheim,5,2,H,20.0,6.0,10.0,3.0,1.2,6.5,15.0,Bundesliga,2024/25
+23/11/2024,Stuttgart,Bochum,2,0,H,15.0,9.0,5.0,2.0,1.29,6.0,9.0,Bundesliga,2024/25
+23/11/2024,Wolfsburg,Union Berlin,1,0,H,10.0,11.0,5.0,4.0,2.3,3.3,3.2,Bundesliga,2024/25
+23/11/2024,Ein Frankfurt,Werder Bremen,1,0,H,15.0,8.0,5.0,1.0,1.7,4.1,4.5,Bundesliga,2024/25
+24/11/2024,Holstein Kiel,Mainz,0,3,A,7.0,18.0,2.0,7.0,3.1,3.4,2.3,Bundesliga,2024/25
+24/11/2024,M'gladbach,St Pauli,2,0,H,15.0,15.0,4.0,3.0,1.8,3.8,4.2,Bundesliga,2024/25
+29/11/2024,St Pauli,Holstein Kiel,3,1,H,11.0,10.0,4.0,3.0,1.67,3.75,5.25,Bundesliga,2024/25
+30/11/2024,Augsburg,Bochum,1,0,H,16.0,7.0,4.0,1.0,1.73,4.0,4.5,Bundesliga,2024/25
+30/11/2024,Freiburg,M'gladbach,3,1,H,17.0,15.0,7.0,4.0,1.95,3.8,3.6,Bundesliga,2024/25
+30/11/2024,RB Leipzig,Wolfsburg,1,5,A,9.0,13.0,4.0,8.0,1.7,4.0,4.75,Bundesliga,2024/25
+30/11/2024,Union Berlin,Leverkusen,1,2,A,8.0,8.0,2.0,3.0,4.75,3.7,1.75,Bundesliga,2024/25
+30/11/2024,Werder Bremen,Stuttgart,2,2,D,20.0,10.0,6.0,4.0,3.0,3.75,2.2,Bundesliga,2024/25
+30/11/2024,Dortmund,Bayern Munich,1,1,D,7.0,14.0,2.0,5.0,4.75,4.1,1.67,Bundesliga,2024/25
+01/12/2024,Mainz,Hoffenheim,2,0,H,18.0,10.0,8.0,2.0,2.1,3.4,3.5,Bundesliga,2024/25
+01/12/2024,Heidenheim,Ein Frankfurt,0,4,A,8.0,14.0,1.0,8.0,3.7,3.7,1.95,Bundesliga,2024/25
+06/12/2024,Stuttgart,Union Berlin,3,2,H,7.0,14.0,5.0,3.0,1.8,3.6,4.5,Bundesliga,2024/25
+07/12/2024,Bayern Munich,Heidenheim,4,2,H,21.0,2.0,10.0,2.0,1.1,11.0,19.0,Bundesliga,2024/25
+07/12/2024,Bochum,Werder Bremen,0,1,A,12.0,9.0,2.0,1.0,3.2,3.5,2.2,Bundesliga,2024/25
+07/12/2024,Ein Frankfurt,Augsburg,2,2,D,16.0,8.0,4.0,3.0,1.53,4.1,6.25,Bundesliga,2024/25
+07/12/2024,Holstein Kiel,RB Leipzig,0,2,A,17.0,9.0,5.0,5.0,5.75,4.2,1.57,Bundesliga,2024/25
+07/12/2024,Leverkusen,St Pauli,2,1,H,6.0,12.0,2.0,4.0,1.25,6.5,10.0,Bundesliga,2024/25
+07/12/2024,M'gladbach,Dortmund,1,1,D,9.0,16.0,3.0,3.0,3.2,3.75,2.1,Bundesliga,2024/25
+08/12/2024,Wolfsburg,Mainz,4,3,H,10.0,12.0,5.0,5.0,2.15,3.3,3.5,Bundesliga,2024/25
+08/12/2024,Hoffenheim,Freiburg,1,1,D,15.0,11.0,5.0,4.0,2.7,3.4,2.55,Bundesliga,2024/25
+13/12/2024,Freiburg,Wolfsburg,3,2,H,18.0,20.0,9.0,5.0,2.2,3.3,3.3,Bundesliga,2024/25
+14/12/2024,Augsburg,Leverkusen,0,2,A,8.0,14.0,4.0,3.0,5.75,4.0,1.57,Bundesliga,2024/25
+14/12/2024,Mainz,Bayern Munich,2,1,H,8.0,13.0,4.0,1.0,6.5,4.5,1.48,Bundesliga,2024/25
+14/12/2024,M'gladbach,Holstein Kiel,4,1,H,15.0,11.0,6.0,3.0,1.44,4.75,6.5,Bundesliga,2024/25
+14/12/2024,Union Berlin,Bochum,0,2,A,,,,,1.6,3.8,6.0,Bundesliga,2024/25
+14/12/2024,St Pauli,Werder Bremen,0,2,A,15.0,8.0,4.0,4.0,2.63,3.4,2.63,Bundesliga,2024/25
+15/12/2024,Heidenheim,Stuttgart,1,3,A,9.0,18.0,2.0,7.0,4.0,4.0,1.8,Bundesliga,2024/25
+15/12/2024,Dortmund,Hoffenheim,1,1,D,6.0,12.0,2.0,1.0,1.44,5.0,6.0,Bundesliga,2024/25
+15/12/2024,RB Leipzig,Ein Frankfurt,2,1,H,19.0,16.0,9.0,3.0,2.05,4.0,3.2,Bundesliga,2024/25
+20/12/2024,Bayern Munich,RB Leipzig,5,1,H,22.0,4.0,9.0,1.0,1.2,7.5,11.0,Bundesliga,2024/25
+21/12/2024,Ein Frankfurt,Mainz,1,3,A,34.0,9.0,9.0,3.0,1.83,4.0,3.9,Bundesliga,2024/25
+21/12/2024,Hoffenheim,M'gladbach,1,2,A,18.0,5.0,8.0,3.0,2.3,3.6,2.9,Bundesliga,2024/25
+21/12/2024,Holstein Kiel,Augsburg,5,1,H,8.0,17.0,6.0,4.0,3.0,3.4,2.35,Bundesliga,2024/25
+21/12/2024,Stuttgart,St Pauli,0,1,A,25.0,11.0,5.0,5.0,1.45,4.75,6.5,Bundesliga,2024/25
+21/12/2024,Werder Bremen,Union Berlin,4,1,H,11.0,16.0,6.0,4.0,2.05,3.3,3.75,Bundesliga,2024/25
+21/12/2024,Leverkusen,Freiburg,5,1,H,20.0,8.0,12.0,2.0,1.38,5.0,7.5,Bundesliga,2024/25
+22/12/2024,Bochum,Heidenheim,2,0,H,14.0,10.0,4.0,2.0,2.3,3.5,3.0,Bundesliga,2024/25
+22/12/2024,Wolfsburg,Dortmund,1,3,A,14.0,12.0,5.0,4.0,3.1,3.6,2.2,Bundesliga,2024/25
+10/01/2025,Dortmund,Leverkusen,2,3,A,12.0,7.0,5.0,5.0,2.7,3.6,2.45,Bundesliga,2024/25
+11/01/2025,Freiburg,Holstein Kiel,3,2,H,14.0,14.0,5.0,7.0,1.4,4.75,7.5,Bundesliga,2024/25
+11/01/2025,Heidenheim,Union Berlin,2,0,H,16.0,10.0,9.0,6.0,3.1,3.3,2.3,Bundesliga,2024/25
+11/01/2025,Hoffenheim,Wolfsburg,0,1,A,15.0,12.0,2.0,3.0,2.35,3.6,2.88,Bundesliga,2024/25
+11/01/2025,Mainz,Bochum,2,0,H,10.0,11.0,5.0,2.0,1.53,4.33,5.75,Bundesliga,2024/25
+11/01/2025,St Pauli,Ein Frankfurt,0,1,A,18.0,14.0,4.0,6.0,3.7,3.5,2.05,Bundesliga,2024/25
+11/01/2025,M'gladbach,Bayern Munich,0,1,A,5.0,23.0,0.0,10.0,7.0,5.0,1.4,Bundesliga,2024/25
+12/01/2025,RB Leipzig,Werder Bremen,4,2,H,18.0,7.0,7.0,2.0,1.75,4.0,4.2,Bundesliga,2024/25
+12/01/2025,Augsburg,Stuttgart,0,1,A,8.0,13.0,2.0,5.0,3.6,3.6,2.0,Bundesliga,2024/25
+14/01/2025,Holstein Kiel,Dortmund,4,2,H,11.0,16.0,7.0,4.0,5.25,4.5,1.55,Bundesliga,2024/25
+14/01/2025,Ein Frankfurt,Freiburg,4,1,H,23.0,7.0,8.0,5.0,1.7,4.2,4.33,Bundesliga,2024/25
+14/01/2025,Leverkusen,Mainz,1,0,H,20.0,7.0,9.0,4.0,1.36,5.25,7.5,Bundesliga,2024/25
+14/01/2025,Wolfsburg,M'gladbach,5,1,H,16.0,9.0,5.0,5.0,1.91,3.8,3.75,Bundesliga,2024/25
+15/01/2025,Bochum,St Pauli,1,0,H,13.0,12.0,5.0,1.0,2.6,3.25,2.75,Bundesliga,2024/25
+15/01/2025,Bayern Munich,Hoffenheim,5,0,H,25.0,5.0,10.0,2.0,1.13,9.0,17.0,Bundesliga,2024/25
+15/01/2025,Stuttgart,RB Leipzig,2,1,H,14.0,6.0,6.0,3.0,1.95,3.9,3.4,Bundesliga,2024/25
+15/01/2025,Union Berlin,Augsburg,0,2,A,13.0,11.0,2.0,5.0,1.83,3.5,4.5,Bundesliga,2024/25
+15/01/2025,Werder Bremen,Heidenheim,3,3,D,12.0,14.0,5.0,5.0,1.6,4.2,4.75,Bundesliga,2024/25
+17/01/2025,Ein Frankfurt,Dortmund,2,0,H,13.0,12.0,5.0,3.0,2.55,3.6,2.63,Bundesliga,2024/25
+18/01/2025,Bayern Munich,Wolfsburg,3,2,H,25.0,7.0,10.0,3.0,1.17,7.5,15.0,Bundesliga,2024/25
+18/01/2025,Bochum,RB Leipzig,3,3,D,14.0,11.0,3.0,3.0,3.7,3.6,2.0,Bundesliga,2024/25
+18/01/2025,Heidenheim,St Pauli,0,2,A,8.0,7.0,1.0,4.0,2.38,3.5,2.8,Bundesliga,2024/25
+18/01/2025,Holstein Kiel,Hoffenheim,1,3,A,12.0,11.0,3.0,6.0,3.0,3.4,2.35,Bundesliga,2024/25
+18/01/2025,Stuttgart,Freiburg,4,0,H,12.0,4.0,7.0,0.0,1.65,4.5,4.5,Bundesliga,2024/25
+18/01/2025,Leverkusen,M'gladbach,3,1,H,10.0,7.0,5.0,4.0,1.27,5.75,11.0,Bundesliga,2024/25
+19/01/2025,Union Berlin,Mainz,2,1,H,12.0,9.0,4.0,1.0,2.55,3.2,2.88,Bundesliga,2024/25
+19/01/2025,Werder Bremen,Augsburg,0,2,A,20.0,9.0,2.0,4.0,1.85,3.8,4.0,Bundesliga,2024/25
+24/01/2025,Wolfsburg,Holstein Kiel,2,2,D,22.0,5.0,5.0,2.0,1.42,5.0,7.0,Bundesliga,2024/25
+25/01/2025,Augsburg,Heidenheim,2,1,H,11.0,11.0,7.0,6.0,1.82,3.6,4.0,Bundesliga,2024/25
+25/01/2025,Dortmund,Werder Bremen,2,2,D,8.0,13.0,4.0,4.0,1.62,4.33,4.75,Bundesliga,2024/25
+25/01/2025,Freiburg,Bayern Munich,1,2,A,7.0,7.0,2.0,3.0,7.5,5.75,1.33,Bundesliga,2024/25
+25/01/2025,Mainz,Stuttgart,2,0,H,11.0,10.0,4.0,5.0,2.8,3.5,2.45,Bundesliga,2024/25
+25/01/2025,RB Leipzig,Leverkusen,2,2,D,8.0,13.0,4.0,7.0,3.7,3.9,1.9,Bundesliga,2024/25
+25/01/2025,M'gladbach,Bochum,3,0,H,16.0,10.0,6.0,4.0,1.73,4.0,4.5,Bundesliga,2024/25
+26/01/2025,Hoffenheim,Ein Frankfurt,2,2,D,24.0,12.0,8.0,7.0,3.1,3.6,2.2,Bundesliga,2024/25
+26/01/2025,St Pauli,Union Berlin,3,0,H,16.0,14.0,5.0,2.0,2.55,3.1,3.0,Bundesliga,2024/25
+31/01/2025,Werder Bremen,Mainz,1,0,H,12.0,13.0,5.0,2.0,2.25,3.3,3.2,Bundesliga,2024/25
+01/02/2025,Bayern Munich,Holstein Kiel,4,3,H,29.0,10.0,12.0,6.0,1.05,17.0,26.0,Bundesliga,2024/25
+01/02/2025,Bochum,Freiburg,0,1,A,22.0,13.0,4.0,5.0,2.8,3.4,2.5,Bundesliga,2024/25
+01/02/2025,Heidenheim,Dortmund,1,2,A,11.0,16.0,5.0,5.0,4.33,3.9,1.75,Bundesliga,2024/25
+01/02/2025,St Pauli,Augsburg,1,1,D,5.0,2.0,1.0,1.0,2.35,3.3,3.1,Bundesliga,2024/25
+01/02/2025,Stuttgart,M'gladbach,1,2,A,10.0,12.0,3.0,6.0,1.57,4.5,5.0,Bundesliga,2024/25
+01/02/2025,Union Berlin,RB Leipzig,0,0,D,21.0,6.0,6.0,2.0,3.1,3.5,2.25,Bundesliga,2024/25
+02/02/2025,Ein Frankfurt,Wolfsburg,1,1,D,16.0,11.0,4.0,2.0,1.95,3.8,3.6,Bundesliga,2024/25
+02/02/2025,Leverkusen,Hoffenheim,3,1,H,9.0,16.0,5.0,7.0,1.25,7.0,9.5,Bundesliga,2024/25
+07/02/2025,Bayern Munich,Werder Bremen,3,0,H,21.0,2.0,12.0,0.0,1.1,11.0,17.0,Bundesliga,2024/25
+08/02/2025,Dortmund,Stuttgart,1,2,A,16.0,4.0,5.0,2.0,1.85,3.8,3.9,Bundesliga,2024/25
+08/02/2025,Freiburg,Heidenheim,1,0,H,9.0,11.0,3.0,5.0,1.7,3.75,4.75,Bundesliga,2024/25
+08/02/2025,Hoffenheim,Union Berlin,0,4,A,16.0,22.0,4.0,7.0,2.2,3.5,3.2,Bundesliga,2024/25
+08/02/2025,Mainz,Augsburg,0,0,D,9.0,9.0,5.0,2.0,1.75,3.5,5.0,Bundesliga,2024/25
+08/02/2025,Wolfsburg,Leverkusen,0,0,D,13.0,15.0,8.0,1.0,4.33,3.6,1.8,Bundesliga,2024/25
+08/02/2025,M'gladbach,Ein Frankfurt,1,1,D,8.0,15.0,3.0,7.0,2.63,3.5,2.55,Bundesliga,2024/25
+09/02/2025,Holstein Kiel,Bochum,2,2,D,10.0,21.0,3.0,6.0,2.25,3.5,3.0,Bundesliga,2024/25
+09/02/2025,RB Leipzig,St Pauli,2,0,H,11.0,7.0,6.0,4.0,1.57,4.2,5.25,Bundesliga,2024/25
+14/02/2025,Augsburg,RB Leipzig,0,0,D,11.0,14.0,2.0,4.0,2.9,3.3,2.4,Bundesliga,2024/25
+15/02/2025,Bochum,Dortmund,2,0,H,18.0,17.0,9.0,2.0,5.0,3.9,1.67,Bundesliga,2024/25
+15/02/2025,St Pauli,Freiburg,0,1,A,5.0,6.0,1.0,4.0,2.5,3.25,2.88,Bundesliga,2024/25
+15/02/2025,Stuttgart,Wolfsburg,1,2,A,10.0,7.0,4.0,3.0,1.73,4.2,4.2,Bundesliga,2024/25
+15/02/2025,Union Berlin,M'gladbach,1,2,A,18.0,9.0,3.0,5.0,2.2,3.5,3.1,Bundesliga,2024/25
+15/02/2025,Leverkusen,Bayern Munich,0,0,D,15.0,2.0,3.0,0.0,2.9,3.7,2.25,Bundesliga,2024/25
+16/02/2025,Werder Bremen,Hoffenheim,1,3,A,14.0,16.0,1.0,7.0,1.85,3.8,3.9,Bundesliga,2024/25
+16/02/2025,Ein Frankfurt,Holstein Kiel,3,1,H,20.0,10.0,9.0,4.0,1.33,5.75,7.5,Bundesliga,2024/25
+16/02/2025,Heidenheim,Mainz,0,2,A,12.0,6.0,3.0,5.0,3.6,3.5,2.05,Bundesliga,2024/25
+21/02/2025,Freiburg,Werder Bremen,5,0,H,13.0,9.0,8.0,3.0,2.0,3.5,3.75,Bundesliga,2024/25
+22/02/2025,Holstein Kiel,Leverkusen,0,2,A,4.0,18.0,3.0,8.0,11.0,6.0,1.25,Bundesliga,2024/25
+22/02/2025,Mainz,St Pauli,2,0,H,10.0,12.0,5.0,0.0,1.8,3.5,4.75,Bundesliga,2024/25
+22/02/2025,M'gladbach,Augsburg,0,3,A,8.0,17.0,5.0,4.0,1.85,3.75,4.0,Bundesliga,2024/25
+22/02/2025,Wolfsburg,Bochum,1,1,D,13.0,11.0,6.0,5.0,1.53,4.2,6.0,Bundesliga,2024/25
+22/02/2025,Dortmund,Union Berlin,6,0,H,24.0,6.0,8.0,1.0,1.53,4.5,5.5,Bundesliga,2024/25
+23/02/2025,RB Leipzig,Heidenheim,2,2,D,17.0,4.0,6.0,2.0,1.33,5.0,8.5,Bundesliga,2024/25
+23/02/2025,Bayern Munich,Ein Frankfurt,4,0,H,19.0,7.0,12.0,2.0,1.3,6.5,7.5,Bundesliga,2024/25
+23/02/2025,Hoffenheim,Stuttgart,1,1,D,9.0,14.0,2.0,7.0,3.5,3.9,1.95,Bundesliga,2024/25
+28/02/2025,Stuttgart,Bayern Munich,1,3,A,12.0,17.0,3.0,8.0,4.75,4.2,1.65,Bundesliga,2024/25
+01/03/2025,Bochum,Hoffenheim,0,1,A,12.0,10.0,3.0,2.0,2.4,3.6,2.8,Bundesliga,2024/25
+01/03/2025,Heidenheim,M'gladbach,0,3,A,20.0,13.0,5.0,5.0,3.1,3.5,2.25,Bundesliga,2024/25
+01/03/2025,RB Leipzig,Mainz,1,2,A,13.0,15.0,4.0,3.0,1.95,3.7,3.75,Bundesliga,2024/25
+01/03/2025,St Pauli,Dortmund,0,2,A,7.0,14.0,1.0,3.0,4.1,3.8,1.83,Bundesliga,2024/25
+01/03/2025,Werder Bremen,Wolfsburg,1,2,A,15.0,9.0,7.0,3.0,2.63,3.4,2.6,Bundesliga,2024/25
+01/03/2025,Ein Frankfurt,Leverkusen,1,4,A,7.0,20.0,3.0,9.0,4.75,3.75,1.73,Bundesliga,2024/25
+02/03/2025,Union Berlin,Holstein Kiel,0,1,A,14.0,10.0,3.0,3.0,1.57,4.33,5.25,Bundesliga,2024/25
+02/03/2025,Augsburg,Freiburg,0,0,D,13.0,7.0,5.0,3.0,2.63,3.25,2.7,Bundesliga,2024/25
+07/03/2025,M'gladbach,Mainz,1,3,A,12.0,16.0,4.0,8.0,2.6,3.3,2.7,Bundesliga,2024/25
+08/03/2025,Bayern Munich,Bochum,2,3,A,14.0,8.0,5.0,5.0,1.11,9.5,19.0,Bundesliga,2024/25
+08/03/2025,Dortmund,Augsburg,0,1,A,14.0,6.0,1.0,1.0,1.53,4.33,5.75,Bundesliga,2024/25
+08/03/2025,Holstein Kiel,Stuttgart,2,2,D,17.0,5.0,5.0,2.0,5.75,4.33,1.53,Bundesliga,2024/25
+08/03/2025,Leverkusen,Werder Bremen,0,2,A,18.0,11.0,4.0,7.0,1.27,5.75,11.0,Bundesliga,2024/25
+08/03/2025,Wolfsburg,St Pauli,1,1,D,16.0,14.0,4.0,4.0,1.75,3.5,5.0,Bundesliga,2024/25
+08/03/2025,Freiburg,RB Leipzig,0,0,D,10.0,18.0,2.0,3.0,2.55,3.3,2.7,Bundesliga,2024/25
+09/03/2025,Ein Frankfurt,Union Berlin,1,2,A,14.0,11.0,3.0,3.0,1.73,4.0,4.5,Bundesliga,2024/25
+09/03/2025,Hoffenheim,Heidenheim,1,1,D,16.0,23.0,3.0,5.0,1.75,4.0,4.33,Bundesliga,2024/25
+14/03/2025,St Pauli,Hoffenheim,1,0,H,10.0,4.0,5.0,0.0,2.25,3.25,3.3,Bundesliga,2024/25
+15/03/2025,Augsburg,Wolfsburg,1,0,H,9.0,13.0,2.0,2.0,2.55,3.3,2.75,Bundesliga,2024/25
+15/03/2025,Mainz,Freiburg,2,2,D,9.0,24.0,4.0,8.0,1.95,3.3,4.1,Bundesliga,2024/25
+15/03/2025,Union Berlin,Bayern Munich,1,1,D,7.0,18.0,3.0,4.0,8.5,5.0,1.36,Bundesliga,2024/25
+15/03/2025,Werder Bremen,M'gladbach,2,4,A,23.0,13.0,2.0,7.0,2.35,3.6,2.8,Bundesliga,2024/25
+15/03/2025,RB Leipzig,Dortmund,2,0,H,15.0,25.0,5.0,9.0,2.38,3.6,2.88,Bundesliga,2024/25
+16/03/2025,Bochum,Ein Frankfurt,1,3,A,17.0,18.0,7.0,7.0,3.1,3.6,2.2,Bundesliga,2024/25
+16/03/2025,Heidenheim,Holstein Kiel,3,1,H,14.0,16.0,5.0,4.0,2.0,3.5,3.75,Bundesliga,2024/25
+16/03/2025,Stuttgart,Leverkusen,3,4,A,11.0,16.0,6.0,4.0,3.1,3.4,2.3,Bundesliga,2024/25
+28/03/2025,Leverkusen,Bochum,3,1,H,14.0,8.0,5.0,3.0,1.22,6.5,12.0,Bundesliga,2024/25
+29/03/2025,Bayern Munich,St Pauli,3,2,H,19.0,10.0,9.0,4.0,1.14,8.0,15.0,Bundesliga,2024/25
+29/03/2025,Hoffenheim,Augsburg,1,1,D,13.0,11.0,4.0,4.0,2.35,3.3,3.1,Bundesliga,2024/25
+29/03/2025,Holstein Kiel,Werder Bremen,0,3,A,11.0,14.0,0.0,7.0,3.2,3.9,2.05,Bundesliga,2024/25
+29/03/2025,M'gladbach,RB Leipzig,1,0,H,16.0,19.0,3.0,3.0,2.88,3.7,2.3,Bundesliga,2024/25
+29/03/2025,Wolfsburg,Heidenheim,0,1,A,11.0,11.0,2.0,4.0,1.67,3.75,5.0,Bundesliga,2024/25
+29/03/2025,Ein Frankfurt,Stuttgart,1,0,H,19.0,8.0,6.0,2.0,2.5,3.8,2.5,Bundesliga,2024/25
+30/03/2025,Freiburg,Union Berlin,1,2,A,9.0,10.0,3.0,6.0,2.0,3.5,3.7,Bundesliga,2024/25
+30/03/2025,Dortmund,Mainz,3,1,H,18.0,12.0,7.0,3.0,1.62,3.9,5.0,Bundesliga,2024/25
+04/04/2025,Augsburg,Bayern Munich,1,3,A,6.0,19.0,3.0,7.0,7.5,4.75,1.42,Bundesliga,2024/25
+05/04/2025,Bochum,Stuttgart,0,4,A,11.0,14.0,2.0,6.0,3.1,3.7,2.15,Bundesliga,2024/25
+05/04/2025,Freiburg,Dortmund,1,4,A,12.0,18.0,3.0,7.0,3.1,3.5,2.2,Bundesliga,2024/25
+05/04/2025,Heidenheim,Leverkusen,0,1,A,10.0,6.0,2.0,2.0,6.5,4.75,1.44,Bundesliga,2024/25
+05/04/2025,Mainz,Holstein Kiel,1,1,D,13.0,10.0,3.0,5.0,1.45,4.5,7.0,Bundesliga,2024/25
+05/04/2025,RB Leipzig,Hoffenheim,3,1,H,16.0,9.0,5.0,5.0,1.55,4.2,5.5,Bundesliga,2024/25
+05/04/2025,Werder Bremen,Ein Frankfurt,2,0,H,12.0,9.0,4.0,0.0,2.63,3.5,2.5,Bundesliga,2024/25
+06/04/2025,St Pauli,M'gladbach,1,1,D,26.0,5.0,9.0,3.0,2.5,3.3,2.75,Bundesliga,2024/25
+06/04/2025,Union Berlin,Wolfsburg,1,0,H,13.0,12.0,3.0,3.0,2.45,3.3,2.88,Bundesliga,2024/25
+11/04/2025,Wolfsburg,RB Leipzig,2,3,A,17.0,16.0,6.0,5.0,2.88,3.75,2.3,Bundesliga,2024/25
+12/04/2025,Bochum,Augsburg,1,2,A,25.0,12.0,9.0,5.0,2.5,3.4,2.8,Bundesliga,2024/25
+12/04/2025,Hoffenheim,Mainz,2,0,H,8.0,14.0,5.0,1.0,2.7,3.5,2.55,Bundesliga,2024/25
+12/04/2025,Holstein Kiel,St Pauli,1,2,A,6.0,14.0,2.0,6.0,3.25,3.3,2.25,Bundesliga,2024/25
+12/04/2025,Leverkusen,Union Berlin,0,0,D,16.0,7.0,3.0,3.0,1.33,4.75,9.5,Bundesliga,2024/25
+12/04/2025,M'gladbach,Freiburg,1,2,A,10.0,19.0,1.0,7.0,2.15,3.6,3.25,Bundesliga,2024/25
+12/04/2025,Bayern Munich,Dortmund,2,2,D,28.0,11.0,11.0,3.0,1.44,5.25,6.0,Bundesliga,2024/25
+13/04/2025,Stuttgart,Werder Bremen,1,2,A,12.0,14.0,4.0,5.0,1.65,4.33,4.5,Bundesliga,2024/25
+13/04/2025,Ein Frankfurt,Heidenheim,3,0,H,19.0,14.0,8.0,3.0,1.73,4.2,4.2,Bundesliga,2024/25
+19/04/2025,Freiburg,Hoffenheim,3,2,H,12.0,19.0,6.0,6.0,1.91,3.7,3.75,Bundesliga,2024/25
+19/04/2025,Heidenheim,Bayern Munich,0,4,A,4.0,18.0,1.0,11.0,9.0,6.0,1.29,Bundesliga,2024/25
+19/04/2025,Mainz,Wolfsburg,2,2,D,18.0,16.0,7.0,4.0,2.0,3.6,3.6,Bundesliga,2024/25
+19/04/2025,RB Leipzig,Holstein Kiel,1,1,D,10.0,13.0,4.0,3.0,1.33,5.75,7.5,Bundesliga,2024/25
+19/04/2025,Werder Bremen,Bochum,1,0,H,14.0,12.0,4.0,1.0,1.73,4.1,4.33,Bundesliga,2024/25
+19/04/2025,Union Berlin,Stuttgart,4,4,D,12.0,13.0,5.0,6.0,2.8,3.4,2.45,Bundesliga,2024/25
+20/04/2025,Augsburg,Ein Frankfurt,0,0,D,13.0,8.0,2.0,5.0,2.55,3.3,2.75,Bundesliga,2024/25
+20/04/2025,Dortmund,M'gladbach,3,2,H,14.0,6.0,6.0,3.0,1.42,5.25,6.5,Bundesliga,2024/25
+20/04/2025,St Pauli,Leverkusen,1,1,D,10.0,6.0,5.0,4.0,5.25,3.8,1.67,Bundesliga,2024/25
+25/04/2025,Stuttgart,Heidenheim,0,1,A,19.0,6.0,3.0,2.0,1.48,5.0,5.75,Bundesliga,2024/25
+26/04/2025,Bayern Munich,Mainz,3,0,H,14.0,8.0,6.0,3.0,1.22,7.0,11.0,Bundesliga,2024/25
+26/04/2025,Hoffenheim,Dortmund,2,3,A,11.0,16.0,3.0,8.0,4.1,4.33,1.73,Bundesliga,2024/25
+26/04/2025,Holstein Kiel,M'gladbach,4,3,H,22.0,16.0,11.0,7.0,3.1,3.8,2.15,Bundesliga,2024/25
+26/04/2025,Leverkusen,Augsburg,2,0,H,14.0,11.0,5.0,2.0,1.36,5.0,8.5,Bundesliga,2024/25
+26/04/2025,Wolfsburg,Freiburg,0,1,A,8.0,15.0,1.0,2.0,2.35,3.5,2.88,Bundesliga,2024/25
+26/04/2025,Ein Frankfurt,RB Leipzig,4,0,H,9.0,7.0,6.0,3.0,2.15,3.8,3.0,Bundesliga,2024/25
+27/04/2025,Bochum,Union Berlin,1,1,D,10.0,5.0,4.0,1.0,2.25,3.4,3.1,Bundesliga,2024/25
+27/04/2025,Werder Bremen,St Pauli,0,0,D,11.0,10.0,2.0,4.0,1.85,3.6,4.0,Bundesliga,2024/25
+02/05/2025,Heidenheim,Bochum,0,0,D,11.0,14.0,3.0,3.0,2.25,3.6,3.1,Bundesliga,2024/25
+03/05/2025,M'gladbach,Hoffenheim,4,4,D,12.0,26.0,7.0,8.0,2.1,4.0,3.0,Bundesliga,2024/25
+03/05/2025,RB Leipzig,Bayern Munich,3,3,D,8.0,20.0,6.0,6.0,4.5,4.33,1.62,Bundesliga,2024/25
+03/05/2025,St Pauli,Stuttgart,0,1,A,6.0,21.0,1.0,8.0,2.62,3.5,2.55,Bundesliga,2024/25
+03/05/2025,Union Berlin,Werder Bremen,2,2,D,17.0,13.0,7.0,6.0,2.7,3.4,2.55,Bundesliga,2024/25
+03/05/2025,Dortmund,Wolfsburg,4,0,H,11.0,11.0,5.0,2.0,1.33,5.75,7.5,Bundesliga,2024/25
+04/05/2025,Augsburg,Holstein Kiel,1,3,A,27.0,7.0,10.0,5.0,1.83,3.9,4.0,Bundesliga,2024/25
+04/05/2025,Freiburg,Leverkusen,2,2,D,8.0,5.0,4.0,2.0,3.2,3.4,2.25,Bundesliga,2024/25
+04/05/2025,Mainz,Ein Frankfurt,1,1,D,12.0,8.0,3.0,2.0,2.35,3.5,2.9,Bundesliga,2024/25
+09/05/2025,Wolfsburg,Hoffenheim,2,2,D,14.0,17.0,5.0,7.0,2.2,3.6,2.9,Bundesliga,2024/25
+10/05/2025,Bochum,Mainz,1,4,A,11.0,22.0,6.0,8.0,2.9,3.6,2.3,Bundesliga,2024/25
+10/05/2025,Holstein Kiel,Freiburg,1,2,A,15.0,9.0,3.0,4.0,3.1,3.75,2.15,Bundesliga,2024/25
+10/05/2025,Union Berlin,Heidenheim,0,3,A,10.0,8.0,1.0,4.0,2.25,3.3,3.3,Bundesliga,2024/25
+10/05/2025,Werder Bremen,RB Leipzig,0,0,D,21.0,16.0,6.0,4.0,2.35,3.7,2.8,Bundesliga,2024/25
+10/05/2025,Bayern Munich,M'gladbach,2,0,H,24.0,16.0,9.0,6.0,1.17,9.5,11.0,Bundesliga,2024/25
+11/05/2025,Leverkusen,Dortmund,2,4,A,19.0,9.0,10.0,5.0,2.7,3.9,2.35,Bundesliga,2024/25
+11/05/2025,Ein Frankfurt,St Pauli,2,2,D,13.0,5.0,5.0,2.0,1.53,4.33,5.75,Bundesliga,2024/25
+11/05/2025,Stuttgart,Augsburg,4,0,H,29.0,7.0,11.0,0.0,1.55,4.33,5.75,Bundesliga,2024/25
+17/05/2025,Augsburg,Union Berlin,1,2,A,19.0,6.0,4.0,4.0,2.1,3.5,3.4,Bundesliga,2024/25
+17/05/2025,Dortmund,Holstein Kiel,3,0,H,19.0,4.0,6.0,2.0,1.09,12.0,19.0,Bundesliga,2024/25
+17/05/2025,Freiburg,Ein Frankfurt,1,3,A,8.0,11.0,1.0,6.0,2.35,3.7,2.8,Bundesliga,2024/25
+17/05/2025,Heidenheim,Werder Bremen,1,4,A,21.0,13.0,8.0,7.0,2.3,3.8,2.75,Bundesliga,2024/25
+17/05/2025,Hoffenheim,Bayern Munich,0,4,A,6.0,14.0,2.0,5.0,5.0,5.25,1.5,Bundesliga,2024/25
+17/05/2025,Mainz,Leverkusen,2,2,D,20.0,7.0,6.0,4.0,2.15,3.9,3.0,Bundesliga,2024/25
+17/05/2025,M'gladbach,Wolfsburg,0,1,A,16.0,17.0,3.0,6.0,2.2,4.2,2.8,Bundesliga,2024/25
+17/05/2025,RB Leipzig,Stuttgart,2,3,A,8.0,15.0,5.0,7.0,2.0,4.2,3.2,Bundesliga,2024/25
+17/05/2025,St Pauli,Bochum,0,2,A,10.0,9.0,2.0,6.0,1.67,4.2,4.5,Bundesliga,2024/25

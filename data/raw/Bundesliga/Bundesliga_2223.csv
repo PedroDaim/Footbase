@@ -1,0 +1,307 @@
+date,home_team,away_team,home_goals,away_goals,result,home_shots,away_shots,home_shots_on_target,away_shots_on_target,odds_home,odds_draw,odds_away,league,season
+05/08/2022,Ein Frankfurt,Bayern Munich,1,6,A,8,23,2,10,6.0,5.0,1.5,Bundesliga,2022/23
+06/08/2022,Augsburg,Freiburg,0,4,A,10,19,2,7,3.3,3.5,2.15,Bundesliga,2022/23
+06/08/2022,Bochum,Mainz,1,2,A,16,13,3,6,3.2,3.4,2.2,Bundesliga,2022/23
+06/08/2022,M'gladbach,Hoffenheim,3,1,H,18,2,8,1,2.05,4.2,3.0,Bundesliga,2022/23
+06/08/2022,Union Berlin,Hertha,3,1,H,18,9,8,3,1.72,3.75,4.5,Bundesliga,2022/23
+06/08/2022,Wolfsburg,Werder Bremen,2,2,D,13,10,3,5,1.85,3.8,3.8,Bundesliga,2022/23
+06/08/2022,Dortmund,Leverkusen,1,0,H,13,8,4,3,2.0,4.2,3.2,Bundesliga,2022/23
+07/08/2022,Stuttgart,RB Leipzig,1,1,D,11,27,2,9,4.5,3.8,1.75,Bundesliga,2022/23
+07/08/2022,FC Koln,Schalke 04,3,1,H,30,6,10,2,1.7,4.0,4.5,Bundesliga,2022/23
+12/08/2022,Freiburg,Dortmund,1,3,A,16,16,7,7,3.0,3.75,2.2,Bundesliga,2022/23
+13/08/2022,Hertha,Ein Frankfurt,1,1,D,11,11,5,1,3.0,3.5,2.3,Bundesliga,2022/23
+13/08/2022,Hoffenheim,Bochum,3,2,H,24,11,13,5,1.57,4.5,5.25,Bundesliga,2022/23
+13/08/2022,Leverkusen,Augsburg,1,2,A,23,6,10,4,1.3,5.75,9.5,Bundesliga,2022/23
+13/08/2022,RB Leipzig,FC Koln,2,2,D,9,12,5,3,1.44,4.75,7.0,Bundesliga,2022/23
+13/08/2022,Werder Bremen,Stuttgart,2,2,D,5,14,3,7,2.25,3.6,3.0,Bundesliga,2022/23
+13/08/2022,Schalke 04,M'gladbach,2,2,D,14,14,5,9,3.1,3.8,2.15,Bundesliga,2022/23
+14/08/2022,Mainz,Union Berlin,0,0,D,10,10,5,2,2.2,3.25,3.4,Bundesliga,2022/23
+14/08/2022,Bayern Munich,Wolfsburg,2,0,H,24,7,8,1,1.12,9.5,17.0,Bundesliga,2022/23
+19/08/2022,M'gladbach,Hertha,1,0,H,11,18,6,5,1.5,4.5,6.0,Bundesliga,2022/23
+20/08/2022,Augsburg,Mainz,1,2,A,6,14,2,7,3.5,3.5,2.1,Bundesliga,2022/23
+20/08/2022,Dortmund,Werder Bremen,2,3,A,5,14,3,7,1.36,5.25,7.5,Bundesliga,2022/23
+20/08/2022,Leverkusen,Hoffenheim,0,3,A,14,10,3,5,1.66,4.33,4.5,Bundesliga,2022/23
+20/08/2022,Stuttgart,Freiburg,0,1,A,18,9,5,3,2.62,3.6,2.55,Bundesliga,2022/23
+20/08/2022,Wolfsburg,Schalke 04,0,0,D,16,9,6,2,1.83,3.8,4.2,Bundesliga,2022/23
+20/08/2022,Union Berlin,RB Leipzig,2,1,H,9,16,4,2,3.6,3.5,2.05,Bundesliga,2022/23
+21/08/2022,Ein Frankfurt,FC Koln,1,1,D,10,6,3,2,1.95,3.75,3.6,Bundesliga,2022/23
+21/08/2022,Bochum,Bayern Munich,0,7,A,13,22,7,12,13.0,8.0,1.18,Bundesliga,2022/23
+26/08/2022,Freiburg,Bochum,1,0,H,28,15,12,5,1.5,4.5,6.0,Bundesliga,2022/23
+27/08/2022,Hertha,Dortmund,0,1,A,12,24,3,7,4.5,4.33,1.66,Bundesliga,2022/23
+27/08/2022,Hoffenheim,Augsburg,1,0,H,24,12,6,1,1.45,4.5,7.0,Bundesliga,2022/23
+27/08/2022,Mainz,Leverkusen,0,3,A,17,7,3,5,2.75,3.75,2.37,Bundesliga,2022/23
+27/08/2022,RB Leipzig,Wolfsburg,2,0,H,16,9,7,4,1.45,4.75,6.0,Bundesliga,2022/23
+27/08/2022,Schalke 04,Union Berlin,1,6,A,12,12,4,7,3.1,3.4,2.3,Bundesliga,2022/23
+27/08/2022,Bayern Munich,M'gladbach,1,1,D,35,5,20,3,1.18,8.0,12.0,Bundesliga,2022/23
+28/08/2022,FC Koln,Stuttgart,0,0,D,6,13,2,5,2.05,3.75,3.4,Bundesliga,2022/23
+28/08/2022,Werder Bremen,Ein Frankfurt,3,4,A,10,12,4,7,2.45,3.5,2.8,Bundesliga,2022/23
+02/09/2022,Dortmund,Hoffenheim,1,0,H,16,7,5,2,1.61,4.5,4.75,Bundesliga,2022/23
+03/09/2022,Bochum,Werder Bremen,0,2,A,19,16,6,6,2.9,3.6,2.3,Bundesliga,2022/23
+03/09/2022,Leverkusen,Freiburg,2,3,A,15,5,6,3,1.9,3.75,3.8,Bundesliga,2022/23
+03/09/2022,Stuttgart,Schalke 04,1,1,D,13,13,3,4,1.75,4.0,4.33,Bundesliga,2022/23
+03/09/2022,Union Berlin,Bayern Munich,1,1,D,10,21,3,6,7.0,5.25,1.36,Bundesliga,2022/23
+03/09/2022,Wolfsburg,FC Koln,2,4,A,9,18,3,5,2.05,3.4,3.75,Bundesliga,2022/23
+03/09/2022,Ein Frankfurt,RB Leipzig,4,0,H,14,5,9,0,3.5,3.75,2.0,Bundesliga,2022/23
+04/09/2022,Augsburg,Hertha,0,2,A,8,16,2,6,2.45,3.3,2.87,Bundesliga,2022/23
+04/09/2022,M'gladbach,Mainz,0,1,A,13,12,3,5,2.2,3.8,3.0,Bundesliga,2022/23
+09/09/2022,Werder Bremen,Augsburg,0,1,A,11,14,6,5,1.53,4.5,5.5,Bundesliga,2022/23
+10/09/2022,Bayern Munich,Stuttgart,2,2,D,18,8,7,3,1.14,8.0,17.0,Bundesliga,2022/23
+10/09/2022,Ein Frankfurt,Wolfsburg,0,1,A,11,6,0,3,2.0,3.6,3.6,Bundesliga,2022/23
+10/09/2022,Hertha,Leverkusen,2,2,D,17,11,6,5,3.6,4.0,1.9,Bundesliga,2022/23
+10/09/2022,Hoffenheim,Mainz,4,1,H,21,10,9,2,2.25,3.75,2.9,Bundesliga,2022/23
+10/09/2022,RB Leipzig,Dortmund,3,0,H,14,4,5,0,2.3,3.9,2.75,Bundesliga,2022/23
+10/09/2022,Schalke 04,Bochum,3,1,H,20,9,8,2,2.0,3.8,3.5,Bundesliga,2022/23
+11/09/2022,FC Koln,Union Berlin,0,1,A,7,12,2,3,2.37,3.4,2.9,Bundesliga,2022/23
+11/09/2022,Freiburg,M'gladbach,0,0,D,13,14,8,5,2.0,3.6,3.5,Bundesliga,2022/23
+16/09/2022,Mainz,Hertha,1,1,D,12,4,2,2,1.72,4.0,4.33,Bundesliga,2022/23
+17/09/2022,Augsburg,Bayern Munich,1,0,H,9,21,4,7,17.0,8.0,1.16,Bundesliga,2022/23
+17/09/2022,Dortmund,Schalke 04,1,0,H,19,3,7,0,1.36,5.0,8.0,Bundesliga,2022/23
+17/09/2022,Leverkusen,Werder Bremen,1,1,D,19,19,7,7,1.61,4.33,5.0,Bundesliga,2022/23
+17/09/2022,Stuttgart,Ein Frankfurt,1,3,A,15,13,2,8,2.25,3.5,3.1,Bundesliga,2022/23
+17/09/2022,M'gladbach,RB Leipzig,3,0,H,21,13,10,6,3.0,3.6,2.25,Bundesliga,2022/23
+18/09/2022,Union Berlin,Wolfsburg,2,0,H,16,5,4,0,1.95,3.5,3.8,Bundesliga,2022/23
+18/09/2022,Bochum,FC Koln,1,1,D,7,18,0,3,3.1,3.6,2.2,Bundesliga,2022/23
+18/09/2022,Hoffenheim,Freiburg,0,0,D,10,14,3,4,2.15,3.6,3.2,Bundesliga,2022/23
+30/09/2022,Bayern Munich,Leverkusen,4,0,H,20,10,10,5,1.36,6.0,7.0,Bundesliga,2022/23
+01/10/2022,Ein Frankfurt,Union Berlin,2,0,H,14,14,4,5,2.25,3.4,3.2,Bundesliga,2022/23
+01/10/2022,FC Koln,Dortmund,3,2,H,20,21,16,13,3.1,4.0,2.05,Bundesliga,2022/23
+01/10/2022,Freiburg,Mainz,2,1,H,13,17,6,7,2.1,3.6,3.4,Bundesliga,2022/23
+01/10/2022,RB Leipzig,Bochum,4,0,H,17,2,9,1,1.22,6.5,12.0,Bundesliga,2022/23
+01/10/2022,Wolfsburg,Stuttgart,3,2,H,20,15,7,7,2.4,3.4,2.9,Bundesliga,2022/23
+01/10/2022,Werder Bremen,M'gladbach,5,1,H,14,13,9,9,2.5,3.9,2.5,Bundesliga,2022/23
+02/10/2022,Hertha,Hoffenheim,1,1,D,13,16,5,4,2.75,3.75,2.37,Bundesliga,2022/23
+02/10/2022,Schalke 04,Augsburg,2,3,A,16,11,5,5,1.95,3.8,3.6,Bundesliga,2022/23
+07/10/2022,Hoffenheim,Werder Bremen,1,2,A,16,8,6,3,1.95,3.8,3.5,Bundesliga,2022/23
+08/10/2022,Augsburg,Wolfsburg,1,1,D,18,12,5,7,2.9,3.4,2.4,Bundesliga,2022/23
+08/10/2022,Bochum,Ein Frankfurt,3,0,H,11,11,6,2,3.75,3.8,1.9,Bundesliga,2022/23
+08/10/2022,Leverkusen,Schalke 04,4,0,H,13,2,7,1,1.45,4.5,7.0,Bundesliga,2022/23
+08/10/2022,Mainz,RB Leipzig,1,1,D,9,12,3,3,3.0,3.6,2.3,Bundesliga,2022/23
+08/10/2022,Dortmund,Bayern Munich,2,2,D,13,9,6,3,4.33,4.75,1.65,Bundesliga,2022/23
+09/10/2022,M'gladbach,FC Koln,5,2,H,13,5,6,3,1.95,3.75,3.6,Bundesliga,2022/23
+09/10/2022,Hertha,Freiburg,2,2,D,11,10,3,4,3.0,3.5,2.3,Bundesliga,2022/23
+09/10/2022,Stuttgart,Union Berlin,0,1,A,9,7,3,4,2.55,3.1,2.9,Bundesliga,2022/23
+14/10/2022,Schalke 04,Hoffenheim,0,3,A,14,18,2,7,3.6,3.8,1.95,Bundesliga,2022/23
+15/10/2022,Ein Frankfurt,Leverkusen,5,1,H,20,5,11,2,2.75,3.6,2.45,Bundesliga,2022/23
+15/10/2022,Stuttgart,Bochum,4,1,H,16,14,7,4,1.65,4.0,5.25,Bundesliga,2022/23
+15/10/2022,Werder Bremen,Mainz,0,2,A,14,11,4,5,2.37,3.6,2.87,Bundesliga,2022/23
+15/10/2022,Wolfsburg,M'gladbach,2,2,D,16,10,4,5,2.62,3.5,2.6,Bundesliga,2022/23
+15/10/2022,RB Leipzig,Hertha,3,2,H,14,16,5,5,1.4,5.0,7.0,Bundesliga,2022/23
+16/10/2022,FC Koln,Augsburg,3,2,H,14,7,6,3,1.66,4.0,5.0,Bundesliga,2022/23
+16/10/2022,Union Berlin,Dortmund,2,0,H,14,13,5,6,2.9,3.5,2.37,Bundesliga,2022/23
+16/10/2022,Bayern Munich,Freiburg,5,0,H,18,6,8,0,1.25,6.5,9.0,Bundesliga,2022/23
+21/10/2022,Mainz,FC Koln,5,0,H,15,6,7,2,2.15,3.5,3.25,Bundesliga,2022/23
+22/10/2022,Augsburg,RB Leipzig,3,3,D,11,19,3,8,5.5,4.33,1.57,Bundesliga,2022/23
+22/10/2022,Dortmund,Stuttgart,5,0,H,19,10,10,1,1.53,4.75,5.5,Bundesliga,2022/23
+22/10/2022,Freiburg,Werder Bremen,2,0,H,25,10,7,2,1.9,3.75,3.8,Bundesliga,2022/23
+22/10/2022,Hoffenheim,Bayern Munich,0,2,A,7,23,3,10,5.5,5.0,1.5,Bundesliga,2022/23
+22/10/2022,Leverkusen,Wolfsburg,2,2,D,13,9,5,3,1.7,4.2,4.5,Bundesliga,2022/23
+22/10/2022,M'gladbach,Ein Frankfurt,1,3,A,8,16,3,5,2.3,3.75,2.87,Bundesliga,2022/23
+23/10/2022,Bochum,Union Berlin,2,1,H,8,6,5,3,4.33,3.4,1.9,Bundesliga,2022/23
+23/10/2022,Hertha,Schalke 04,2,1,H,11,9,4,2,1.75,3.75,4.75,Bundesliga,2022/23
+28/10/2022,Werder Bremen,Hertha,1,0,H,15,9,4,1,2.0,3.8,3.4,Bundesliga,2022/23
+29/10/2022,Bayern Munich,Mainz,6,2,H,25,13,12,5,1.25,6.5,11.0,Bundesliga,2022/23
+29/10/2022,RB Leipzig,Leverkusen,2,0,H,10,4,6,1,1.8,4.0,4.1,Bundesliga,2022/23
+29/10/2022,Stuttgart,Augsburg,2,1,H,31,12,8,6,1.8,3.8,4.33,Bundesliga,2022/23
+29/10/2022,Wolfsburg,Bochum,4,0,H,22,10,7,3,1.65,4.2,4.75,Bundesliga,2022/23
+29/10/2022,Ein Frankfurt,Dortmund,1,2,A,20,8,8,2,2.75,3.75,2.4,Bundesliga,2022/23
+30/10/2022,Union Berlin,M'gladbach,2,1,H,14,7,5,3,2.05,3.4,3.8,Bundesliga,2022/23
+30/10/2022,Schalke 04,Freiburg,0,2,A,12,19,3,9,4.0,3.75,1.9,Bundesliga,2022/23
+30/10/2022,FC Koln,Hoffenheim,1,1,D,11,9,3,4,2.9,3.5,2.37,Bundesliga,2022/23
+04/11/2022,M'gladbach,Stuttgart,3,1,H,11,13,6,4,2.15,3.75,3.1,Bundesliga,2022/23
+05/11/2022,Augsburg,Ein Frankfurt,1,2,A,9,12,5,7,4.33,4.0,1.72,Bundesliga,2022/23
+05/11/2022,Dortmund,Bochum,3,0,H,6,7,3,1,1.22,7.0,11.0,Bundesliga,2022/23
+05/11/2022,Hertha,Bayern Munich,2,3,A,7,14,5,4,10.0,6.5,1.25,Bundesliga,2022/23
+05/11/2022,Hoffenheim,RB Leipzig,1,3,A,11,17,3,8,2.9,3.75,2.25,Bundesliga,2022/23
+05/11/2022,Mainz,Wolfsburg,0,3,A,16,10,3,3,2.0,3.75,3.5,Bundesliga,2022/23
+05/11/2022,Werder Bremen,Schalke 04,2,1,H,11,19,5,3,1.65,4.33,4.5,Bundesliga,2022/23
+06/11/2022,Leverkusen,Union Berlin,5,0,H,11,6,8,1,2.15,3.4,3.4,Bundesliga,2022/23
+06/11/2022,Freiburg,FC Koln,2,0,H,13,6,5,2,1.7,4.0,4.75,Bundesliga,2022/23
+08/11/2022,Wolfsburg,Dortmund,2,0,H,15,20,8,6,3.1,3.6,2.2,Bundesliga,2022/23
+08/11/2022,Bayern Munich,Werder Bremen,6,1,H,21,4,10,1,1.14,9.5,15.0,Bundesliga,2022/23
+08/11/2022,Bochum,M'gladbach,2,1,H,13,8,4,2,3.2,3.5,2.25,Bundesliga,2022/23
+08/11/2022,Stuttgart,Hertha,2,1,H,16,11,7,4,1.95,3.8,3.75,Bundesliga,2022/23
+09/11/2022,FC Koln,Leverkusen,1,2,A,17,10,7,3,3.0,3.75,2.2,Bundesliga,2022/23
+09/11/2022,Ein Frankfurt,Hoffenheim,4,2,H,15,12,8,3,1.9,3.8,3.75,Bundesliga,2022/23
+09/11/2022,RB Leipzig,Freiburg,3,1,H,18,4,8,2,1.72,4.0,4.5,Bundesliga,2022/23
+09/11/2022,Schalke 04,Mainz,1,0,H,13,11,4,1,3.4,3.75,2.05,Bundesliga,2022/23
+09/11/2022,Union Berlin,Augsburg,2,2,D,18,7,6,2,1.55,4.2,6.0,Bundesliga,2022/23
+11/11/2022,M'gladbach,Dortmund,4,2,H,11,20,6,10,3.2,4.0,2.15,Bundesliga,2022/23
+12/11/2022,Augsburg,Bochum,0,1,A,19,11,5,4,2.2,3.5,3.2,Bundesliga,2022/23
+12/11/2022,Hertha,FC Koln,2,0,H,17,10,8,2,2.2,3.6,3.1,Bundesliga,2022/23
+12/11/2022,Hoffenheim,Wolfsburg,1,2,A,22,6,8,3,2.25,3.75,3.1,Bundesliga,2022/23
+12/11/2022,Leverkusen,Stuttgart,2,0,H,11,7,3,1,1.72,4.2,4.33,Bundesliga,2022/23
+12/11/2022,Werder Bremen,RB Leipzig,1,2,A,7,14,5,3,3.6,4.0,1.9,Bundesliga,2022/23
+12/11/2022,Schalke 04,Bayern Munich,0,2,A,6,22,2,6,15.0,7.5,1.16,Bundesliga,2022/23
+13/11/2022,Mainz,Ein Frankfurt,1,1,D,19,10,6,3,2.75,3.5,2.45,Bundesliga,2022/23
+13/11/2022,Freiburg,Union Berlin,4,1,H,7,4,5,2,2.0,3.3,4.0,Bundesliga,2022/23
+20/01/2023,RB Leipzig,Bayern Munich,1,1,D,10,7,3,2,3.6,4.33,1.85,Bundesliga,2022/23
+21/01/2023,Bochum,Hertha,3,1,H,10,10,3,2,2.38,3.5,2.9,Bundesliga,2022/23
+21/01/2023,Ein Frankfurt,Schalke 04,3,0,H,11,18,3,4,1.36,5.0,8.5,Bundesliga,2022/23
+21/01/2023,Stuttgart,Mainz,1,1,D,16,12,4,2,2.4,3.5,2.88,Bundesliga,2022/23
+21/01/2023,Union Berlin,Hoffenheim,3,1,H,23,10,5,5,2.25,3.4,3.2,Bundesliga,2022/23
+21/01/2023,Wolfsburg,Freiburg,6,0,H,13,9,11,1,2.55,3.4,2.75,Bundesliga,2022/23
+21/01/2023,FC Koln,Werder Bremen,7,1,H,15,4,7,2,2.25,3.8,2.9,Bundesliga,2022/23
+22/01/2023,Dortmund,Augsburg,4,3,H,27,14,10,4,1.3,6.0,8.0,Bundesliga,2022/23
+22/01/2023,M'gladbach,Leverkusen,2,3,A,15,13,8,5,2.63,3.8,2.45,Bundesliga,2022/23
+24/01/2023,Schalke 04,RB Leipzig,1,6,A,9,21,1,14,5.75,4.33,1.53,Bundesliga,2022/23
+24/01/2023,Bayern Munich,FC Koln,1,1,D,22,2,7,1,1.2,7.5,12.0,Bundesliga,2022/23
+24/01/2023,Hertha,Wolfsburg,0,5,A,8,15,2,7,3.0,3.4,2.3,Bundesliga,2022/23
+24/01/2023,Hoffenheim,Stuttgart,2,2,D,13,8,5,4,2.1,3.5,3.4,Bundesliga,2022/23
+25/01/2023,Mainz,Dortmund,1,2,A,12,12,4,6,2.9,3.6,2.3,Bundesliga,2022/23
+25/01/2023,Augsburg,M'gladbach,1,0,H,14,7,4,2,3.0,3.6,2.25,Bundesliga,2022/23
+25/01/2023,Freiburg,Ein Frankfurt,1,1,D,12,4,5,2,2.5,3.5,2.7,Bundesliga,2022/23
+25/01/2023,Leverkusen,Bochum,2,0,H,11,9,4,2,1.4,5.25,6.5,Bundesliga,2022/23
+25/01/2023,Werder Bremen,Union Berlin,1,2,A,8,11,3,5,2.8,3.2,2.63,Bundesliga,2022/23
+27/01/2023,RB Leipzig,Stuttgart,2,1,H,9,10,4,3,1.33,5.0,9.0,Bundesliga,2022/23
+28/01/2023,Freiburg,Augsburg,3,1,H,15,16,9,4,1.5,4.5,6.25,Bundesliga,2022/23
+28/01/2023,Hertha,Union Berlin,0,2,A,10,7,3,3,3.5,3.25,2.2,Bundesliga,2022/23
+28/01/2023,Hoffenheim,M'gladbach,1,4,A,15,10,5,5,2.0,3.9,3.4,Bundesliga,2022/23
+28/01/2023,Mainz,Bochum,5,2,H,14,14,7,4,1.7,4.0,4.75,Bundesliga,2022/23
+28/01/2023,Werder Bremen,Wolfsburg,2,1,H,14,7,5,3,3.2,3.6,2.15,Bundesliga,2022/23
+28/01/2023,Bayern Munich,Ein Frankfurt,1,1,D,14,7,6,1,1.33,6.0,7.5,Bundesliga,2022/23
+29/01/2023,Schalke 04,FC Koln,0,0,D,15,7,2,0,3.8,3.6,1.95,Bundesliga,2022/23
+29/01/2023,Leverkusen,Dortmund,0,2,A,20,6,7,2,2.45,3.8,2.63,Bundesliga,2022/23
+03/02/2023,Augsburg,Leverkusen,1,0,H,10,12,5,4,4.0,3.8,1.85,Bundesliga,2022/23
+04/02/2023,Bochum,Hoffenheim,5,2,H,17,10,11,4,2.75,3.5,2.5,Bundesliga,2022/23
+04/02/2023,Dortmund,Freiburg,5,1,H,24,6,8,3,1.67,4.0,5.0,Bundesliga,2022/23
+04/02/2023,Ein Frankfurt,Hertha,3,0,H,10,13,4,3,1.45,4.5,6.5,Bundesliga,2022/23
+04/02/2023,FC Koln,RB Leipzig,0,0,D,9,7,0,2,4.2,3.6,1.91,Bundesliga,2022/23
+04/02/2023,Union Berlin,Mainz,2,1,H,9,9,5,2,1.95,3.5,4.0,Bundesliga,2022/23
+04/02/2023,M'gladbach,Schalke 04,0,0,D,17,18,4,5,1.53,4.5,5.75,Bundesliga,2022/23
+05/02/2023,Stuttgart,Werder Bremen,0,2,A,16,9,5,4,2.0,3.6,3.6,Bundesliga,2022/23
+05/02/2023,Wolfsburg,Bayern Munich,2,4,A,19,9,5,4,5.25,4.5,1.57,Bundesliga,2022/23
+10/02/2023,Schalke 04,Wolfsburg,0,0,D,17,8,5,2,3.6,3.8,1.95,Bundesliga,2022/23
+11/02/2023,Bayern Munich,Bochum,3,0,H,25,7,12,1,1.11,10.0,17.0,Bundesliga,2022/23
+11/02/2023,Freiburg,Stuttgart,2,1,H,9,14,5,3,1.8,3.8,4.33,Bundesliga,2022/23
+11/02/2023,Hoffenheim,Leverkusen,1,3,A,11,12,6,5,2.88,3.6,2.38,Bundesliga,2022/23
+11/02/2023,Mainz,Augsburg,3,1,H,13,11,7,3,1.8,4.0,4.2,Bundesliga,2022/23
+11/02/2023,Werder Bremen,Dortmund,0,2,A,8,17,3,9,4.0,4.0,1.8,Bundesliga,2022/23
+11/02/2023,RB Leipzig,Union Berlin,1,2,A,9,6,1,5,1.7,3.75,5.0,Bundesliga,2022/23
+12/02/2023,Hertha,M'gladbach,4,1,H,17,7,7,3,2.88,3.5,2.4,Bundesliga,2022/23
+12/02/2023,FC Koln,Ein Frankfurt,3,0,H,9,7,4,1,2.7,3.5,2.5,Bundesliga,2022/23
+17/02/2023,Augsburg,Hoffenheim,1,0,H,16,8,3,2,2.7,3.5,2.6,Bundesliga,2022/23
+18/02/2023,Bochum,Freiburg,0,2,A,15,15,6,5,3.1,3.5,2.25,Bundesliga,2022/23
+18/02/2023,M'gladbach,Bayern Munich,3,2,H,17,13,7,4,7.0,5.75,1.36,Bundesliga,2022/23
+18/02/2023,Stuttgart,FC Koln,3,0,H,18,11,7,4,2.45,3.4,2.88,Bundesliga,2022/23
+18/02/2023,Wolfsburg,RB Leipzig,0,3,A,7,17,2,5,3.3,3.6,2.15,Bundesliga,2022/23
+18/02/2023,Ein Frankfurt,Werder Bremen,2,0,H,11,3,6,0,1.62,4.2,5.25,Bundesliga,2022/23
+19/02/2023,Union Berlin,Schalke 04,0,0,D,9,6,4,2,1.6,3.8,6.0,Bundesliga,2022/23
+19/02/2023,Dortmund,Hertha,4,1,H,12,15,5,8,1.33,5.5,8.5,Bundesliga,2022/23
+19/02/2023,Leverkusen,Mainz,2,3,A,17,12,7,7,1.8,3.8,4.2,Bundesliga,2022/23
+24/02/2023,Mainz,M'gladbach,4,0,H,14,8,8,2,2.15,3.6,3.2,Bundesliga,2022/23
+25/02/2023,FC Koln,Wolfsburg,0,2,A,11,6,5,4,2.3,3.5,3.0,Bundesliga,2022/23
+25/02/2023,Hertha,Augsburg,2,0,H,11,9,3,2,2.1,3.6,3.25,Bundesliga,2022/23
+25/02/2023,Hoffenheim,Dortmund,0,1,A,13,23,4,11,4.0,4.2,1.75,Bundesliga,2022/23
+25/02/2023,RB Leipzig,Ein Frankfurt,2,1,H,10,8,5,4,1.7,4.0,4.6,Bundesliga,2022/23
+25/02/2023,Werder Bremen,Bochum,3,0,H,12,9,6,2,2.0,3.8,3.6,Bundesliga,2022/23
+25/02/2023,Schalke 04,Stuttgart,2,1,H,11,17,6,5,3.0,3.4,2.45,Bundesliga,2022/23
+26/02/2023,Freiburg,Leverkusen,1,1,D,9,16,4,4,2.15,3.5,3.25,Bundesliga,2022/23
+26/02/2023,Bayern Munich,Union Berlin,3,0,H,19,4,10,1,1.33,5.25,9.0,Bundesliga,2022/23
+03/03/2023,Dortmund,RB Leipzig,2,1,H,8,14,3,6,2.2,3.5,3.2,Bundesliga,2022/23
+04/03/2023,Augsburg,Werder Bremen,2,1,H,9,17,5,8,2.3,3.5,3.0,Bundesliga,2022/23
+04/03/2023,Bochum,Schalke 04,0,2,A,6,9,4,5,2.3,3.4,3.1,Bundesliga,2022/23
+04/03/2023,Mainz,Hoffenheim,1,0,H,16,15,6,4,1.91,3.6,4.0,Bundesliga,2022/23
+04/03/2023,M'gladbach,Freiburg,0,0,D,10,8,4,3,2.4,3.6,2.8,Bundesliga,2022/23
+04/03/2023,Union Berlin,FC Koln,0,0,D,8,12,2,4,1.91,3.4,4.33,Bundesliga,2022/23
+04/03/2023,Stuttgart,Bayern Munich,1,2,A,11,13,4,6,7.0,5.25,1.4,Bundesliga,2022/23
+05/03/2023,Leverkusen,Hertha,4,1,H,18,7,9,2,1.53,4.2,6.0,Bundesliga,2022/23
+05/03/2023,Wolfsburg,Ein Frankfurt,2,2,D,13,10,8,2,2.45,3.5,2.8,Bundesliga,2022/23
+10/03/2023,FC Koln,Bochum,0,2,A,11,9,5,3,1.73,3.75,4.75,Bundesliga,2022/23
+11/03/2023,Bayern Munich,Augsburg,5,3,H,24,13,9,6,1.13,9.0,19.0,Bundesliga,2022/23
+11/03/2023,Ein Frankfurt,Stuttgart,1,1,D,10,9,1,5,1.8,4.0,4.2,Bundesliga,2022/23
+11/03/2023,Hertha,Mainz,1,1,D,9,6,4,3,2.9,3.4,2.45,Bundesliga,2022/23
+11/03/2023,RB Leipzig,M'gladbach,3,0,H,14,7,9,3,1.4,5.0,7.0,Bundesliga,2022/23
+11/03/2023,Schalke 04,Dortmund,2,2,D,10,20,5,8,4.5,4.0,1.73,Bundesliga,2022/23
+12/03/2023,Freiburg,Hoffenheim,2,1,H,9,12,3,1,1.91,3.6,4.0,Bundesliga,2022/23
+12/03/2023,Werder Bremen,Leverkusen,2,3,A,12,13,6,5,3.3,3.75,2.1,Bundesliga,2022/23
+12/03/2023,Wolfsburg,Union Berlin,1,1,D,15,11,6,2,2.25,3.25,3.3,Bundesliga,2022/23
+17/03/2023,M'gladbach,Werder Bremen,2,2,D,21,6,9,3,1.8,4.0,4.2,Bundesliga,2022/23
+18/03/2023,Augsburg,Schalke 04,1,1,D,9,13,3,5,2.3,3.4,3.1,Bundesliga,2022/23
+18/03/2023,Bochum,RB Leipzig,1,0,H,8,21,2,8,5.5,4.33,1.55,Bundesliga,2022/23
+18/03/2023,Hoffenheim,Hertha,3,1,H,15,11,7,5,2.05,3.5,3.5,Bundesliga,2022/23
+18/03/2023,Stuttgart,Wolfsburg,0,1,A,12,9,2,3,2.38,3.4,2.9,Bundesliga,2022/23
+18/03/2023,Dortmund,FC Koln,6,1,H,11,11,8,5,1.45,4.75,6.5,Bundesliga,2022/23
+19/03/2023,Union Berlin,Ein Frankfurt,2,0,H,14,19,3,4,2.38,3.2,3.2,Bundesliga,2022/23
+19/03/2023,Leverkusen,Bayern Munich,2,1,H,12,11,6,6,5.25,4.5,1.55,Bundesliga,2022/23
+19/03/2023,Mainz,Freiburg,1,1,D,10,11,6,5,2.1,3.5,3.3,Bundesliga,2022/23
+31/03/2023,Ein Frankfurt,Bochum,1,1,D,18,8,7,2,1.5,4.33,6.5,Bundesliga,2022/23
+01/04/2023,Freiburg,Hertha,1,1,D,16,10,8,3,1.62,4.0,5.5,Bundesliga,2022/23
+01/04/2023,RB Leipzig,Mainz,0,3,A,12,19,3,7,1.53,4.5,5.5,Bundesliga,2022/23
+01/04/2023,Schalke 04,Leverkusen,0,3,A,12,18,3,10,3.8,3.75,1.91,Bundesliga,2022/23
+01/04/2023,Union Berlin,Stuttgart,3,0,H,13,17,5,8,2.05,3.2,3.9,Bundesliga,2022/23
+01/04/2023,Wolfsburg,Augsburg,2,2,D,23,5,5,2,1.62,4.0,5.5,Bundesliga,2022/23
+01/04/2023,Bayern Munich,Dortmund,4,2,H,16,10,9,4,1.45,5.0,6.0,Bundesliga,2022/23
+02/04/2023,FC Koln,M'gladbach,0,0,D,12,8,5,2,2.25,3.6,3.0,Bundesliga,2022/23
+02/04/2023,Werder Bremen,Hoffenheim,1,2,A,12,8,5,2,2.3,3.5,3.0,Bundesliga,2022/23
+08/04/2023,Augsburg,FC Koln,1,3,A,13,11,1,5,2.8,3.4,2.55,Bundesliga,2022/23
+08/04/2023,Dortmund,Union Berlin,2,1,H,14,7,6,2,1.6,4.0,5.75,Bundesliga,2022/23
+08/04/2023,Freiburg,Bayern Munich,0,1,A,10,23,2,8,6.5,5.0,1.45,Bundesliga,2022/23
+08/04/2023,Leverkusen,Ein Frankfurt,3,1,H,13,9,8,3,1.8,4.0,4.0,Bundesliga,2022/23
+08/04/2023,Mainz,Werder Bremen,2,2,D,16,9,10,4,1.7,4.0,4.75,Bundesliga,2022/23
+08/04/2023,Hertha,RB Leipzig,0,1,A,11,18,1,6,5.5,4.0,1.62,Bundesliga,2022/23
+09/04/2023,M'gladbach,Wolfsburg,2,0,H,13,9,6,2,2.38,3.6,2.88,Bundesliga,2022/23
+09/04/2023,Bochum,Stuttgart,2,3,A,11,14,5,7,3.1,3.5,2.25,Bundesliga,2022/23
+09/04/2023,Hoffenheim,Schalke 04,2,0,H,15,10,4,3,1.91,3.8,3.8,Bundesliga,2022/23
+14/04/2023,Schalke 04,Hertha,5,2,H,14,11,7,5,2.25,3.3,3.2,Bundesliga,2022/23
+15/04/2023,Bayern Munich,Hoffenheim,1,1,D,22,4,7,3,1.22,7.5,11.0,Bundesliga,2022/23
+15/04/2023,FC Koln,Mainz,1,1,D,12,5,4,1,2.55,3.4,2.7,Bundesliga,2022/23
+15/04/2023,RB Leipzig,Augsburg,3,2,H,13,14,6,3,1.25,6.5,10.0,Bundesliga,2022/23
+15/04/2023,Stuttgart,Dortmund,3,3,D,12,15,5,6,3.5,3.8,1.95,Bundesliga,2022/23
+15/04/2023,Ein Frankfurt,M'gladbach,1,1,D,16,4,5,2,1.73,4.2,4.33,Bundesliga,2022/23
+16/04/2023,Werder Bremen,Freiburg,1,2,A,13,6,5,3,2.7,3.5,2.55,Bundesliga,2022/23
+16/04/2023,Union Berlin,Bochum,1,1,D,10,14,2,8,1.6,3.8,6.0,Bundesliga,2022/23
+16/04/2023,Wolfsburg,Leverkusen,0,0,D,11,13,3,4,2.75,3.6,2.4,Bundesliga,2022/23
+21/04/2023,Augsburg,Stuttgart,1,1,D,4,6,1,3,3.2,3.6,2.15,Bundesliga,2022/23
+22/04/2023,Bochum,Wolfsburg,1,5,A,23,15,6,7,3.0,3.5,2.3,Bundesliga,2022/23
+22/04/2023,Hertha,Werder Bremen,2,4,A,13,11,5,4,2.25,3.5,3.1,Bundesliga,2022/23
+22/04/2023,Hoffenheim,FC Koln,1,3,A,11,14,4,7,2.2,3.5,3.2,Bundesliga,2022/23
+22/04/2023,Mainz,Bayern Munich,3,1,H,13,11,4,2,5.25,4.5,1.57,Bundesliga,2022/23
+22/04/2023,Dortmund,Ein Frankfurt,4,0,H,14,9,7,2,1.62,4.5,4.75,Bundesliga,2022/23
+23/04/2023,Freiburg,Schalke 04,4,0,H,25,10,12,4,1.8,3.75,4.5,Bundesliga,2022/23
+23/04/2023,Leverkusen,RB Leipzig,2,0,H,8,26,6,8,2.5,3.6,2.63,Bundesliga,2022/23
+23/04/2023,M'gladbach,Union Berlin,0,1,A,8,14,4,4,2.38,3.3,3.1,Bundesliga,2022/23
+28/04/2023,Bochum,Dortmund,1,1,D,10,21,4,6,6.0,5.25,1.44,Bundesliga,2022/23
+29/04/2023,Ein Frankfurt,Augsburg,1,1,D,7,9,1,3,1.53,4.5,5.5,Bundesliga,2022/23
+29/04/2023,FC Koln,Freiburg,0,1,A,21,12,8,6,2.4,3.25,3.0,Bundesliga,2022/23
+29/04/2023,RB Leipzig,Hoffenheim,1,0,H,16,5,2,2,1.44,5.0,6.5,Bundesliga,2022/23
+29/04/2023,Stuttgart,M'gladbach,2,1,H,18,9,5,4,1.8,4.0,4.2,Bundesliga,2022/23
+29/04/2023,Union Berlin,Leverkusen,0,0,D,7,8,1,2,2.8,3.4,2.45,Bundesliga,2022/23
+29/04/2023,Schalke 04,Werder Bremen,2,1,H,21,11,10,1,2.25,3.5,3.1,Bundesliga,2022/23
+30/04/2023,Bayern Munich,Hertha,2,0,H,25,2,9,1,1.11,10.0,19.0,Bundesliga,2022/23
+30/04/2023,Wolfsburg,Mainz,3,0,H,10,10,4,2,2.2,3.5,3.1,Bundesliga,2022/23
+05/05/2023,Leverkusen,FC Koln,1,2,A,14,7,4,5,1.67,4.0,5.0,Bundesliga,2022/23
+05/05/2023,Mainz,Schalke 04,2,3,A,9,15,4,10,1.62,4.0,5.25,Bundesliga,2022/23
+06/05/2023,Augsburg,Union Berlin,1,0,H,11,12,3,4,3.4,3.25,2.2,Bundesliga,2022/23
+06/05/2023,Freiburg,RB Leipzig,0,1,A,5,13,2,6,4.0,3.75,1.85,Bundesliga,2022/23
+06/05/2023,Hertha,Stuttgart,2,1,H,7,16,3,4,3.1,3.5,2.25,Bundesliga,2022/23
+06/05/2023,Hoffenheim,Ein Frankfurt,3,1,H,8,19,5,6,2.3,3.6,2.9,Bundesliga,2022/23
+06/05/2023,M'gladbach,Bochum,2,0,H,25,14,9,3,1.85,3.8,4.0,Bundesliga,2022/23
+06/05/2023,Werder Bremen,Bayern Munich,1,2,A,12,12,2,4,8.5,6.0,1.3,Bundesliga,2022/23
+07/05/2023,Dortmund,Wolfsburg,6,0,H,20,10,10,3,1.44,5.25,5.75,Bundesliga,2022/23
+12/05/2023,FC Koln,Hertha,5,2,H,28,9,15,3,1.85,3.75,4.0,Bundesliga,2022/23
+13/05/2023,Bayern Munich,Schalke 04,6,0,H,23,8,14,0,1.13,10.0,17.0,Bundesliga,2022/23
+13/05/2023,Bochum,Augsburg,3,2,H,15,12,8,2,2.1,3.6,3.3,Bundesliga,2022/23
+13/05/2023,Ein Frankfurt,Mainz,3,0,H,17,10,7,4,2.1,3.6,3.3,Bundesliga,2022/23
+13/05/2023,Union Berlin,Freiburg,4,2,H,10,13,4,8,2.2,3.2,3.5,Bundesliga,2022/23
+13/05/2023,Wolfsburg,Hoffenheim,2,1,H,8,10,3,2,1.91,3.75,3.8,Bundesliga,2022/23
+13/05/2023,Dortmund,M'gladbach,5,2,H,33,13,13,8,1.25,6.5,10.0,Bundesliga,2022/23
+14/05/2023,Stuttgart,Leverkusen,1,1,D,9,12,1,3,2.5,3.4,2.75,Bundesliga,2022/23
+14/05/2023,RB Leipzig,Werder Bremen,2,1,H,20,6,7,2,1.25,6.5,10.0,Bundesliga,2022/23
+19/05/2023,Freiburg,Wolfsburg,2,0,H,16,9,7,2,2.0,3.8,3.4,Bundesliga,2022/23
+20/05/2023,Hertha,Bochum,1,1,D,14,17,4,6,2.2,3.6,3.1,Bundesliga,2022/23
+20/05/2023,Hoffenheim,Union Berlin,4,2,H,10,20,5,4,2.5,3.4,2.8,Bundesliga,2022/23
+20/05/2023,Schalke 04,Ein Frankfurt,2,2,D,11,6,4,3,3.0,3.6,2.25,Bundesliga,2022/23
+20/05/2023,Werder Bremen,FC Koln,1,1,D,13,13,6,4,2.6,3.6,2.55,Bundesliga,2022/23
+20/05/2023,Bayern Munich,RB Leipzig,1,3,A,17,16,4,8,1.5,5.0,5.5,Bundesliga,2022/23
+21/05/2023,Mainz,Stuttgart,1,4,A,9,8,6,6,2.5,3.5,2.7,Bundesliga,2022/23
+21/05/2023,Augsburg,Dortmund,0,3,A,4,28,1,10,7.0,5.5,1.36,Bundesliga,2022/23
+21/05/2023,Leverkusen,M'gladbach,2,2,D,13,9,6,5,1.45,5.25,5.75,Bundesliga,2022/23
+27/05/2023,Bochum,Leverkusen,3,0,H,10,11,5,2,3.25,4.0,2.0,Bundesliga,2022/23
+27/05/2023,Dortmund,Mainz,2,2,D,30,10,12,4,1.14,8.5,15.0,Bundesliga,2022/23
+27/05/2023,Ein Frankfurt,Freiburg,2,1,H,14,13,8,7,2.4,3.75,2.7,Bundesliga,2022/23
+27/05/2023,FC Koln,Bayern Munich,1,2,A,9,11,3,3,7.5,6.0,1.3,Bundesliga,2022/23
+27/05/2023,M'gladbach,Augsburg,2,0,H,17,9,7,3,2.2,3.8,3.0,Bundesliga,2022/23
+27/05/2023,RB Leipzig,Schalke 04,4,2,H,19,16,12,4,1.6,4.5,4.75,Bundesliga,2022/23
+27/05/2023,Stuttgart,Hoffenheim,1,1,D,19,8,4,2,1.57,4.75,5.0,Bundesliga,2022/23
+27/05/2023,Union Berlin,Werder Bremen,1,0,H,16,7,4,4,1.44,4.75,7.0,Bundesliga,2022/23
+27/05/2023,Wolfsburg,Hertha,1,2,A,19,9,9,5,1.36,5.25,8.0,Bundesliga,2022/23
