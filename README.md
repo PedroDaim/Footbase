@@ -88,11 +88,13 @@ FootBase: Football Data + Understat xG Merge
 ```bash
 git clone https://github.com/PedroDaim/Footbase.git
 cd footbase
-2. Create the environment
-bash
-Copy code
+```
+### **2. Create the environment**
 conda env create -f environment.yml
 conda activate footbase
+conda env create -f environment.yml
+conda activate footbase
+```
 3. Run the merge script
 bash
 Copy code
@@ -106,7 +108,7 @@ Merge and validate matches
 Update your SQLite database with xG columns
 
 Create a backup table automatically
-
+```
 4. Query the data
 python
 Copy code
@@ -115,6 +117,7 @@ import sqlite3
 conn = sqlite3.connect('db/footbase_big5.db')
 matches = pd.read_sql("SELECT * FROM matches LIMIT 10;", conn)
 print(matches.head())
+```
 📈 Roadmap
 Add UEFA and Copa Libertadores data
 
@@ -144,12 +147,13 @@ footbase/
 │
 ├── environment.yml
 └── README.md
+```
 👤 Author
 Pedro Daim
 Data Analyst
-
-📧 your.email@example.com
-🐦 @yourhandle
+```
+📧 pdaim.analytics@gmail.com
+🐦 @PlotTheGame
 
 
 
