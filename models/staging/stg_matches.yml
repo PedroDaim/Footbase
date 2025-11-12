@@ -1,0 +1,13 @@
+version: 2
+
+models:
+  - name: stg_matches
+    description: "Staging model for raw matches data"
+    columns:
+      - name: match_id
+        description: "Unique match identifier"
+      - name: date
+      - name: home_team
+      - name: away_team
+      - name: home_goals
+      - name: away_goals
