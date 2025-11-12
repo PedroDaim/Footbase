@@ -5,7 +5,7 @@ WITH ordered AS (
         *,
         ROW_NUMBER() OVER (
             PARTITION BY league, season
-            ORDER BY home_team, away_team
+            ORDER BY rowid
         ) AS rn
     FROM {{ source('football_data', 'matches') }}
 ),
@@ -14,8 +14,8 @@ with_matchday AS (
     SELECT
         *,
         CASE 
-            WHEN league = 'Bundesliga' THEN CEIL(rn / 9.0)
-            ELSE CEIL(rn / 10.0)
+            WHEN league = 'Bundesliga' THEN CAST((rn / 9.0 + 0.999999) AS INTEGER)
+            ELSE CAST((rn / 10.0 + 0.999999) AS INTEGER)
         END AS matchday
     FROM ordered
 ),
