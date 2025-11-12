@@ -48,3 +48,8 @@ Thumbs.db
 
 # Logs
 *.log
+
+#DBT
+target/
+dbt_packages/
+logs/
