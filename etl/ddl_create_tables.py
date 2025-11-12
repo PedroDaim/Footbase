@@ -2,7 +2,7 @@ import sqlite3
 import pandas as pd
 
 # Connect to database (it will be created if it doesn’t exist)
-conn = sqlite3.connect("../footbase.db")
+conn = sqlite3.connect("../db/footbase.db")
 
 # Create a cursor to run SQL commands
 cursor = conn.cursor()
@@ -55,6 +55,6 @@ print("✅ Tables created successfully!")
 #cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
 #print(cursor.fetchall())
 
-#cursor.execute("PRAGMA table_info(competitions);")
-#for col in cursor.fetchall():
-    #print(col)
+cursor.execute("PRAGMA table_info(competitions);")
+for col in cursor.fetchall():
+    print(col)
