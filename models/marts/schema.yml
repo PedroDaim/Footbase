@@ -1,0 +1,197 @@
+version: 2
+
+models:
+  - name: dim_teams
+    description: >
+      Dimension table containing all unique teams across all leagues and seasons.
+      Each team gets a stable team_id for use in fact tables.
+    columns:
+      - name: team_id
+        description: Unique identifier for each team (snake_case version of team name)
+        tests:
+          - not_null
+          - unique
+      
+      - name: team_name
+        description: Display name of the team
+        tests:
+          - not_null
+      
+      - name: league
+        description: Primary league the team plays in (most recent)
+        tests:
+          - not_null
+      
+      - name: last_season
+        description: Most recent season the team appeared in
+        tests:
+          - not_null
+      
+      - name: seasons_played
+        description: Total number of distinct seasons the team has played
+        tests:
+          - not_null
+
+  - name: dim_competitions
+    description: >
+      Dimension table containing all football competitions/leagues with country metadata.
+    columns:
+      - name: competition_id
+        description: Unique identifier for each competition
+        tests:
+          - not_null
+          - unique
+      
+      - name: competition_name
+        description: Display name of the competition
+        tests:
+          - not_null
+      
+      - name: country
+        description: Country where the competition takes place
+
+  - name: fct_matches
+    description: >
+      Core fact table containing one row per football match with measurements 
+      (goals, xG, shots) and foreign keys to dimension tables.
+    columns:
+      - name: match_id
+        description: Unique match identifier from staging
+        tests:
+          - not_null
+          - unique
+      
+      - name: match_date
+        description: Date when the match was played
+      
+      - name: season
+        description: Season identifier (e.g., '2023/24')
+        tests:
+          - not_null
+      
+      - name: matchday
+        description: Sequential matchday number within the season
+        tests:
+          - not_null
+      
+      - name: competition_id
+        description: Foreign key to dim_competitions
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_competitions')
+              field: competition_id
+      
+      - name: home_team_id
+        description: Foreign key to dim_teams (home team)
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_teams')
+              field: team_id
+      
+      - name: away_team_id
+        description: Foreign key to dim_teams (away team)
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_teams')
+              field: team_id
+      
+      - name: result
+        description: Match result (H=Home win, D=Draw, A=Away win)
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['H', 'D', 'A']
+      
+      - name: home_goals
+        description: Goals scored by home team
+        tests:
+          - not_null
+      
+      - name: away_goals
+        description: Goals scored by away team
+        tests:
+          - not_null
+      
+      - name: home_xg
+        description: Expected goals for home team
+      
+      - name: away_xg
+        description: Expected goals for away team
+
+  - name: fct_team_season_stats
+    description: >
+      Aggregated team performance metrics by season and competition.
+      One row per team per season per competition.
+    columns:
+      - name: team_id
+        description: Foreign key to dim_teams
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_teams')
+              field: team_id
+      
+      - name: season
+        description: Season identifier
+        tests:
+          - not_null
+      
+      - name: competition_id
+        description: Foreign key to dim_competitions
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_competitions')
+              field: competition_id
+      
+      - name: matches_played
+        description: Total matches played (home + away)
+        tests:
+          - not_null
+      
+      - name: wins
+        description: Total wins
+        tests:
+          - not_null
+      
+      - name: draws
+        description: Total draws
+        tests:
+          - not_null
+      
+      - name: losses
+        description: Total losses
+        tests:
+          - not_null
+      
+      - name: total_points
+        description: Total points (3 per win, 1 per draw)
+        tests:
+          - not_null
+      
+      - name: goals_for
+        description: Total goals scored
+        tests:
+          - not_null
+      
+      - name: goals_against
+        description: Total goals conceded
+        tests:
+          - not_null
+      
+      - name: goal_difference
+        description: Goals for minus goals against
+        tests:
+          - not_null
+      
+      - name: xg_for
+        description: Total expected goals
+      
+      - name: xg_against
+        description: Total expected goals against
+      
+      - name: xg_overperformance
+        description: Actual goals minus expected goals (positive = overperforming)
