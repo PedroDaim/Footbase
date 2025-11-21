@@ -1,4 +1,5 @@
-# ⚽ Footbase
+# ![Logo](assets/Footbase.png)
+
 
 **A modern, analytics-ready data warehouse for football (soccer) match data built with dbt + SQLite**
 
