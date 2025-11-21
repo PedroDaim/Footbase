@@ -90,13 +90,13 @@ Footbase follows a **three-layer data warehouse** pattern:
                   │
                   ▼
 ┌─────────────────────────────────────────────┐
-│  MARTS LAYER (dim_*, fct_*)                 │
+│  MARTS LAYER (dim_*, fct_*)                 |
 │                                             │
 │  Dimensions:        Facts:                  │
 │  • dim_teams        • fct_matches           │
 │  • dim_competitions • fct_team_season_stats │
 │                                             │
-│  ⭐ Star Schema - Ready for BI Tools        │
+│  ⭐ Star Schema - Ready for BI Tools       │ 
 └─────────────────────────────────────────────┘
 ```
 
