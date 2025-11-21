@@ -1,4 +1,7 @@
-# ![Logo](assets/Footbase.png)
+# <p align="center">
+  <img src="assets/Footbase.png" width="200" alt="Logo">
+</p>
+
 
 
 **A modern, analytics-ready data warehouse for football (soccer) match data built with dbt + SQLite**
