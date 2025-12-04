@@ -138,4 +138,4 @@ dependencies:
       - understat==0.1.12
       - urllib3==1.26.5
       - yarl==1.22.0
-prefix: C:\Users\Pedro\miniconda3\envs\footbase
+
